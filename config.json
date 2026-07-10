@@ -4,14 +4,12 @@
   "profile": {
     "title": "Environmental / Data Science Job Tracker",
     "subtitle": "California",
-    "emoji": "🧪, 📊"
+    "emoji": "📊"
   },
 
   "keywords": {
     "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-        
-         // ===== Research/Data roles =====
   "research data specialist",
   "research data specialist ii",
   "research data specialist iii",
@@ -34,7 +32,6 @@
   "statistical analyst",
   "senior statistical analyst",
 
-  // ===== Data science / computational =====
   "data scientist",
   "senior data scientist",
   "principal data scientist",
@@ -49,7 +46,7 @@
   "biostatistician",
   "senior biostatistician",
 
-  // ===== Environmental science =====
+ 
   "environmental scientist",
   "environmental scientist specialist",
   "senior environmental scientist",
@@ -70,7 +67,7 @@
   "conservation scientist",
   "biological scientist",
 
-  // ===== Regulatory science =====
+
   "regulatory scientist",
   "regulatory affairs scientist",
   "regulatory analyst",
@@ -81,7 +78,7 @@
   "program evaluator",
   "evaluation analyst",
 
-  // ===== Molecular/environmental biology =====
+ 
   "molecular biologist",
   "microbiologist",
   "geneticist",
