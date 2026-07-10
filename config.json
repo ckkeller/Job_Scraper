@@ -1,0 +1,284 @@
+{
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
+  "profile": {
+    "title": "Environmental / Data Science Job Tracker",
+    "subtitle": "California",
+    "emoji": "🧪, 📊"
+  },
+
+  "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
+    "include": [
+        
+         // ===== Research/Data roles =====
+  "research data specialist",
+  "research data specialist ii",
+  "research data specialist iii",
+  "research data supervisor",
+  "research data supervisor i",
+  "research data analyst",
+  "research data analyst ii",
+  "research data analyst iii",
+
+  "research analyst",
+  "senior research analyst",
+  "principal research analyst",
+  "data analyst",
+  "senior data analyst",
+  "principal data analyst",
+  "scientific data analyst",
+  "scientific analyst",
+  "quantitative analyst",
+  "quantitative scientist",
+  "statistical analyst",
+  "senior statistical analyst",
+
+  // ===== Data science / computational =====
+  "data scientist",
+  "senior data scientist",
+  "principal data scientist",
+  "staff data scientist",
+  "data science manager",
+  "analytics manager",
+
+  "computational scientist",
+  "computational biologist",
+  "bioinformatics scientist",
+  "bioinformatics analyst",
+  "biostatistician",
+  "senior biostatistician",
+
+  // ===== Environmental science =====
+  "environmental scientist",
+  "environmental scientist specialist",
+  "senior environmental scientist",
+  "senior environmental scientist (specialist)",
+  "senior environmental scientist (supervisory)",
+  "environmental research scientist",
+
+  "environmental analyst",
+  "environmental program analyst",
+  "environmental planning analyst"
+  "environmental specialist",
+  "environmental program specialist",
+  "environmental protection specialist",
+
+  "ecologist",
+  "aquatic ecologist",
+  "wildlife biologist",
+  "conservation scientist",
+  "biological scientist",
+
+  // ===== Regulatory science =====
+  "regulatory scientist",
+  "regulatory affairs scientist",
+  "regulatory analyst",
+  "regulatory specialist",
+  "product stewardship scientist",
+  "chemical safety scientist",
+
+  "policy analyst",
+  "program analyst",
+  "program evaluator",
+  "evaluation analyst",
+
+  // ===== Molecular/environmental biology =====
+  "molecular biologist",
+  "microbiologist",
+  "geneticist",
+  "plant biology",
+  "plant biologist",
+  "plant biological scientist",
+  "plant scientist",
+  "botanical scientist",
+  "plant research scientist",
+  "botanist",
+  "plant ecologist"
+]
+      
+    ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
+    "exclude": [
+  "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician","student",
+  "graduate student", "junior", "entry level","sales", "customer service", "software engineer", "software developer", "web developer",
+  "data engineer","database administrator", "nurse", "physician", "clinical", "clinical research", "hospital",
+  "research assistant", "lab assistant","teaching assistant","undergraduate","postdoc","postdoctoral", "work-study", "volunteer",
+  "fellowship", "engineer","engineering", "ehs","occupational safety", "occupational health","health and safety",
+  "health & safety"
+]
+  },
+
+  "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
+    "linkedin": [
+      "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ],
+    "indeed": [
+       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ],
+    "glassdoor": [
+      "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ],
+    "ziprecruiter": [
+     "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ],
+    "google_jobs": [
+       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ],
+    "hiring_cafe": [
+       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
+      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
+      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
+      "plant research scientist","botanical scientist","plant biology","botanist",
+      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
+      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
+      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    ]
+  },
+
+  "locations": {
+    "_comment": "LinkedIn needs a geoId (find via the guest endpoint; leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country (USA, Australia, Canada, GB...). HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
+    "linkedin": [
+      { "name": "SacCalifornia",  "location": "Sacramento, California, United States",          "geoId": "0664000" },
+      { "name": "DavisCalifornia", "location": "Davis, California, United States", "geoId": "0618100" }
+    ],
+    "indeed": [
+      { "location": "Sacramento, California",   "country": "USA" },
+      { "location": "Davis, California",   "country": "USA" }
+    ],
+    "glassdoor": [
+      { "location": "Sacramento, California",   "country": "USA" },
+      { "location": "Davis, California", "country": "USA" }
+    ],
+    "ziprecruiter": [
+      { "location": "Sacramento, California",   "country": "USA" },
+      { "location": "Davis, California",   "country": "USA" }
+    ],
+    "google_jobs": [
+      { "location": "Sacramento, California",   "country": "USA" },
+      { "location": "Davis, California",   "country": "USA" }
+    ],
+    "hiring_cafe": [
+      { "location": "Sacramento, California",   "country": "USA" },
+      { "location": "Davis, California",   "country": "USA" }
+    ]
+  },
+
+  "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries such as '<term> jobs near <location> since yesterday' from search_terms.google_jobs and locations.google_jobs. If the free JobSpy path is blocked, set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD as GitHub Actions secrets for an API fallback.",
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
+  "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
+    "max_pages": 3
+  },
+
+  "employers": {
+    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "priority": [
+      "University of California Davis", "California Department of Public Health", "California Department of Resources Recycling and Recovery",
+      "California Air Resources Board", "California Department of Water Resources", "State Water Resources Control Board",
+      "California Department of Fish and Wildlife", "California Department of Food and Agriculture", "Lawrence Livermore National Laboratory",
+      "Lawrence Berkeley National Laboratory", "USDA", "USGS", "California Environmental Protection Agency", "Genentech", "Gilead Sciences", "Novozymes",
+      "Bayer", "Syngenta Seeds", "HM.CLAUSE", "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
+      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting", "California Native Plant Society", "Rare Plant Department",
+      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
+      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
+      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
+      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
+      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
+      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
+      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
+      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
+      "National Institute of Environmental Health", "Geological Survey", "Procter & Gamble", "Unilever", 
+      "Syngenta", "Dow Chemical", "BASF Corporation"
+    ],
+    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
+    "exclude": [
+      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
+      "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
+      "clinical genomics","human genomics","genomics therapeutics",
+      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
+      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
+      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers", "Corteva"
+    ]
+  },
+
+  "priority_topics": {
+    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
+    "terms": [
+  ["Plant Biology","plant|botan|botanical|agricultur|ecolog"],
+  [ "Biostatistics","biostatistic|statistical|quantitative" ],
+  ["Data Science","data scien|data analyst|data scientist|informatics|quantitative|statistical"],
+  ["Environmental Scientist","environmental scientist|environmental specialist|environmental analyst|environmental program"],
+  ["Environmental Biology", "ecolog|botan|plant|microbiolog|wildlife|conservation"],
+  ["Regulatory Science","regulatory|policy|compliance|stewardship"],
+  ["R / Shiny","\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
+]
+  },
+
+  "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
+    "terms": [
+    ["Plant Biology","plant|botan|botanical|agricultur|horticultur"],
+    ["Environmental Science","environmental|sustainab|chemist|contaminant|pollution"],
+    ["Regulatory Science","policy|regulatory|stewardship|registration|affairs|compliance"],
+    ["Data Science","data scien|data analyst|biostatistic|informatics|quantitative|statistical"],
+    ["Environmental Biology","ecolog|wildlife|conservation|microbiolog"],
+    ["Water Resources","water|drinking water|watershed|aquatic|marine|limnolog|hydrolog"],
+    ["Research", "research|scientific|analyst|specialist"],
+    ["Academic","professor|faculty|lecturer"]
+  ]
+  },
+
+  "notify": {
+    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
+  }
+}
