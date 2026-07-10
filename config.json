@@ -59,7 +59,7 @@
 
   "environmental analyst",
   "environmental program analyst",
-  "environmental planning analyst"
+  "environmental planning analyst",
   "environmental specialist",
   "environmental program specialist",
   "environmental protection specialist",
@@ -75,8 +75,6 @@
   "regulatory affairs scientist",
   "regulatory analyst",
   "regulatory specialist",
-  "product stewardship scientist",
-  "chemical safety scientist",
 
   "policy analyst",
   "program analyst",
@@ -112,58 +110,64 @@
   "search_terms": {
     "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ],
     "indeed": [
-       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ],
     "glassdoor": [
-      "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ],
     "ziprecruiter": [
-     "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+   "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ],
     "google_jobs": [
-       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ],
     "hiring_cafe": [
-       "Senior Data Scientist", "senior environmental scientist", "ecotoxicologist", "regulatory scientist",
-      "computational toxicology", "human health risk assessment", "ecological risk assessment", "bioinformatician",
-      "exposure scientist", "environmental health scientist", "environmental botanist", "Microbiologist","plant scientist","plant biologist",
-      "plant research scientist","botanical scientist","plant biology","botanist",
-      "environmental chemist", "senior environmental scientist", "water quality scientist", "product stewardship", "chemical safety",
-      "environmental data scientist", "Biostatistician", "Bioinformatics Scientist", "Computational Biologist", "Scientific Data Analyst", "research data analyst",
-      "data analyst", "research analyst", "senior environmental scientist", "biologist", "biological research scientist", "senior environmental specialist"
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
     ]
   },
 
