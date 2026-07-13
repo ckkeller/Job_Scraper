@@ -1,18 +1,13 @@
 # 🏛 Priority Employers — Environmental / Toxicology Roles
-*Last updated: 2026-07-10 07:07 UTC*
+*Last updated: 2026-07-13 06:42 UTC*
 
-**3 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Environmental Scientist](https://www.linkedin.com/jobs/view/4438886148/) — Tetra Tech
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $70,304 - $80,000,
-- 🕒 **Posted:** 2026-07-10
+### [Principal Environmental Scientist - Environmental Impact Assessment](https://www.linkedin.com/jobs/view/4423402582/) — AECOM
+- 📍 **Location:** Darwin, Northern Territory, Australia
+- 🕒 **Posted:** 2026-07-13
 
-### [Experienced Environmental Data Manager](https://www.linkedin.com/jobs/view/4418835933/) — Geosyntec Consultants
+### [Principal Practice Leader - Air Quality](https://www.linkedin.com/jobs/view/4410885192/) — Geosyntec Consultants
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $97,255/year - $145,940/year
-- 🕒 **Posted:** 2026-07-09
-
-### [Senior / Principal Sediment Remediation Practitioner](https://www.linkedin.com/jobs/view/4401115497/) — Geosyntec Consultants
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-07-09
+- 💰 **Salary:** $149,330/year - $209,060/year
+- 🕒 **Posted:** 2026-07-12
