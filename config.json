@@ -238,7 +238,7 @@
     "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
     "exclude": [
       "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
-      "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
+      "oncolog", "biomedicine", "pfizer", "merck", "novartis", "abbvie",
       "clinical genomics","human genomics","genomics therapeutics",
       "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
       "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
