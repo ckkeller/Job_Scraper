@@ -96,38 +96,86 @@ PROFILE_SUBTITLE = str(_cfg("profile.subtitle", "All locations"))
 # "Risk Assessor" and "Risk Assessment Scientist"); single tokens are word-
 # bounded, so list FULL words ("toxicologist", not the stem "toxicolog").
 _KEYWORDS_DEFAULT = [
-    # ---- Toxicology (core) ----  (fallback; real list is config.json → keywords.include)
-    "toxicologist", "toxicology", "toxicological",
-    "ecotoxicologist", "ecotoxicology", "ecotoxicolog",
-    "environmental toxicolog", "regulatory toxicolog",
-    "computational toxicolog", "predictive toxicolog",
-    "aquatic toxicolog", "wildlife toxicolog", "research toxicolog",
-    # ---- Risk / exposure / hazard assessment ----
-    "risk assess", "risk assessor", "human health risk",
-    "ecological risk", "exposure scien", "exposure assess",
-    "exposure modeling", "exposure modelling", "hazard assess",
-    "hazard identification", "dose-response", "dose response",
-    "pharmacokinetic", "toxicokinetic", "pbpk",
-    # ---- Environmental science / health / chemistry ----
-    "environmental scien", "environmental health",
-    "environmental chemist", "environmental chemistry",
-    "environmental specialist", "environmental analyst",
-    "environmental protection", "environmental epidemiolog",
-    "environmental data", "environmental monitoring",
-    "environmental assessment", "exposure epidemiolog",
-    # ---- Water / contaminants ----
-    "water quality", "drinking water", "watershed", "water resources",
-    "aquatic scien", "limnolog",
-    "microplastic", "microplastics", "nanoplastic", "nanomaterial",
-    "pfas", "per- and polyfluoro", "emerging contaminant",
-    "contaminant", "pollutant", "air pollution", "water pollution",
-    "air quality", "remediation", "environmental remediation",
-    # ---- Chemical safety / product stewardship / regulatory ----
-    "chemical safety", "chemical risk", "chemical assess",
-    "chemical regulatory", "product steward", "regulatory toxicolog",
-    "hazardous materials", "hazardous waste", "environmental compliance",
-    # ---- Ecotoxicology-adjacent ecology / sustainability ----
-    "ecotoxicolog", "conservation toxicolog",
+    "research data specialist",
+  "research data specialist ii",
+  "research data specialist iii",
+  "research data supervisor",
+  "research data supervisor i",
+  "research data analyst",
+  "research data analyst ii",
+  "research data analyst iii",
+
+  "research analyst",
+  "senior research analyst",
+  "principal research analyst",
+  "data analyst",
+  "senior data analyst",
+  "principal data analyst",
+  "scientific data analyst",
+  "scientific analyst",
+  "quantitative analyst",
+  "quantitative scientist",
+  "statistical analyst",
+  "senior statistical analyst",
+
+  "data scientist",
+  "senior data scientist",
+  "principal data scientist",
+  "staff data scientist",
+  "data science manager",
+  "analytics manager",
+
+  "computational scientist",
+  "computational biologist",
+  "bioinformatics scientist",
+  "bioinformatics analyst",
+  "biostatistician",
+  "senior biostatistician",
+
+ 
+  "environmental scientist",
+  "environmental scientist specialist",
+  "senior environmental scientist",
+  "senior environmental scientist (specialist)",
+  "senior environmental scientist (supervisory)",
+  "environmental research scientist",
+
+  "environmental analyst",
+  "environmental program analyst",
+  "environmental planning analyst",
+  "environmental specialist",
+  "environmental program specialist",
+  "environmental protection specialist",
+
+  "ecologist",
+  "aquatic ecologist",
+  "wildlife biologist",
+  "conservation scientist",
+  "biological scientist",
+
+
+  "regulatory scientist",
+  "regulatory affairs scientist",
+  "regulatory analyst",
+  "regulatory specialist",
+
+  "policy analyst",
+  "program analyst",
+  "program evaluator",
+  "evaluation analyst",
+
+ 
+  "molecular biologist",
+  "microbiologist",
+  "geneticist",
+  "plant biology",
+  "plant biologist",
+  "plant biological scientist",
+  "plant scientist",
+  "botanical scientist",
+  "plant research scientist",
+  "botanist",
+  "plant ecologist"
 ]
 KEYWORDS = _cfg("keywords.include", _KEYWORDS_DEFAULT)
 # NOTE: deliberately tight. Generic titles ("Research Scientist", "Senior
@@ -156,8 +204,8 @@ def _build_title_re(terms: list) -> re.Pattern:
 
 _EXCLUDE_DEFAULT = [
     "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice", "technician",
-    "research assistant", "lab assistant", "teaching assistant", "undergraduate", "postdoc",
-    "postdoctoral", "work-study", "volunteer", "fellowship", "engineer", "engineering",
+    "research assistant", "lab assistant", "teaching assistant", "undergraduate", 
+    "work-study", "volunteer", "fellowship", "engineer", "engineering",
     "ehs", "occupational safety", "occupational health", "health and safety", "health & safety",
 ]
 EXCLUDED_SENIORITY_RE = _build_title_re(_cfg("keywords.exclude", _EXCLUDE_DEFAULT))
@@ -229,18 +277,7 @@ TARGET_LOCATIONS = [
     "sunnyvale", "santa clara", "san jose", "san mateo", "redwood city",
     "fremont", "hayward", "concord", "walnut creek", "pleasanton", "livermore",
     "novato", "san rafael", "vacaville",
-    # Southern California (his PhD / collaborator base)
-    "los angeles", "long beach", "irvine", "costa mesa", "san diego",
-    "riverside", "pasadena", "santa monica", "torrance", "fountain valley",
-    # Central Coast / Valley
-    "santa barbara", "san luis obispo", "fresno", "monterey",
-    # Oregon
-    "portland, or", "portland, oregon", "bend, or", "bend, oregon", "oregon",
-    "beaverton", "hillsboro", "eugene", "salem, or", "corvallis", "redmond, or",
-    # Australia
-    "australia", "sydney", "melbourne", "brisbane", "perth", "adelaide",
-    "canberra", "new south wales", "victoria", "queensland",
-    "western australia", "tasmania",
+    
 ]
 
 
@@ -375,12 +412,16 @@ def probe_curated_greenhouse(entry: dict) -> list:
 
 
 WORKDAY_SEARCH_TERMS = [
-    "toxicologist",
+    "plant scientist",
     "environmental scientist",
-    "risk assessment",
-    "exposure scientist",
-    "environmental health",
-    "water quality",
+    "biologist",
+    "biological scientist",
+    "Data analyst",
+    "bioinformatics scientist",
+    "molecular biologist",
+    "plant research scientist",
+    "botanist",
+    "plant ecologist"
 ]
 
 
@@ -513,32 +554,14 @@ def scrape_genentech():
 # ---------------------------------------------------------------------------
 
 LINKEDIN_SEARCH_TERMS = _cfg("search_terms.linkedin", [
-    # Toxicology (core)
-    "toxicologist",
-    "environmental toxicologist",
-    "ecotoxicologist",
-    "regulatory toxicologist",
-    "computational toxicology",
-    # Risk / exposure
-    "human health risk assessment",
-    "ecological risk assessment",
-    "exposure scientist",
-    "exposure assessment",
-    # Environmental science / health / chemistry
-    "environmental scientist",
-    "environmental health scientist",
-    "environmental chemist",
-    "environmental epidemiologist",
-    # Water / contaminants
-    "water quality scientist",
-    "microplastics",
-    "PFAS",
-    "emerging contaminants",
-    "air quality scientist",
-    # Chemical safety / stewardship / regulatory
-    "product stewardship",
-    "chemical safety",
-    "environmental data scientist",
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
 ])
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
@@ -549,10 +572,8 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 # Bend). All confirmed by probing the guest endpoint. Add a region by finding
 # its geoId (or leaving it blank for a city LinkedIn can resolve).
 LINKEDIN_GEOS = _cfg("locations.linkedin", [
-    {"name": "California",  "location": "California, United States",          "geoId": "102095887"},
-    {"name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079"},
-    {"name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": ""},
-    {"name": "Australia",   "location": "Australia",                          "geoId": "101452733"},
+    { "name": "SacCalifornia",  "location": "Sacramento, California, United States",          "geoId": "0664000" },
+      { "name": "DavisCalifornia", "location": "Davis, California, United States", "geoId": "0618100" }
 ])
 
 # Priority-employer allowlist used by the LinkedIn-side filter to build the
@@ -940,15 +961,18 @@ INDEED_BACKFILL_DAYS = 50  # one-time historical backfill window
 # Australia → au.indeed.com). Searched per term, so we use a tighter term list
 # than LinkedIn to keep the call count sane (terms × geos jobspy calls).
 INDEED_GEOS = _cfg("locations.indeed", [
-    {"location": "California",   "country": "USA"},
-    {"location": "Portland, OR", "country": "USA"},
-    {"location": "Bend, OR",     "country": "USA"},
-    {"location": "Australia",    "country": "Australia"},
+    {"location": "Davis, California",   "country": "USA"},
+    {{"location": "Sacramento, California",   "country": "USA"},
 ])
 INDEED_SEARCH_TERMS = _cfg("search_terms.indeed", [
-    "toxicologist", "environmental scientist", "risk assessment",
-    "exposure scientist", "ecotoxicologist", "microplastics",
-    "water quality scientist", "environmental health scientist",
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist"
 ])
 GLASSDOOR_LOOKBACK_HOURS = 24
 GLASSDOOR_BACKFILL_DAYS = 30
@@ -1796,9 +1820,9 @@ CALCAREERS_TIMEOUT = 30
 
 # Broad CalCareers queries; titles are still gated by is_mle_role() afterward.
 CALCAREERS_TERMS = [
-    "toxicologist", "environmental scientist", "risk assessment",
-    "exposure", "water quality", "microplastics", "hazard",
-    "environmental health", "ecologist",
+    "RESEARCH SCIENTIST SUPERVISOR I", "RESEARCH SCIENTIST", "SENIOR ENVIRONMENTAL SCIENTIST (SPECIALIST)",
+    "RESEARCH SCIENTIST STAFF", "SENIOR ENVIRONMENTAL SCIENTIST (SUPERVISORY)", "RESEARCH DATA SPECIALIST II", "RESEARCH DATA SPECIALIST I",
+    "botany", "ecologist", "bioinformatics"
 ]
 
 
@@ -1992,9 +2016,14 @@ def save_calcareers_results(jobs: list):
 USAJOBS_RESULTS_URL = "https://www.usajobs.gov/Search/Results?hp=public&s=startdate&sd=desc&p=1"
 USAJOBS_SEARCH_URL = "https://www.usajobs.gov/Search/ExecuteSearch"
 USAJOBS_TERMS = [
-    "toxicologist", "environmental protection specialist", "environmental health",
-    "ecotoxicology", "exposure science", "risk assessment",
-    "environmental scientist", "microplastics", "ecologist",
+    "data scientist","data analyst","research data analyst","research data specialist","scientific data analyst",
+    "statistical analyst","quantitative analyst","biostatistician","environmental scientist","senior environmental scientist",
+    "environmental specialist","environmental analyst", "environmental research scientist","environmental program specialist",
+    "regulatory scientist","regulatory analyst","regulatory specialist","policy analyst","program analyst","program evaluator",
+    "plant scientist","plant biologist","plant research scientist","botanist","plant ecologist",
+    "botanical scientist","ecologist","wildlife biologist","conservation scientist", "biological scientist","computational scientist",
+    "computational biologist","bioinformatics scientist","bioinformatics analyst", "water quality scientist",
+    "water resources scientist", "aquatic scientist","environmental data scientist",
 ]
 USAJOBS_RESULTS_PER_PAGE = 50
 
