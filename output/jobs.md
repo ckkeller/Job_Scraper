@@ -13,7 +13,7 @@
 - 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
 - 🕒 **Posted:** 2026-07-21
 
-### [Principal Environmental Risk Assessor](https://www.linkedin.com/jobs/view/4424637743/) — Geosyntec Consultants
+### [Environmental Remediation Area Manager](https://www.linkedin.com/jobs/view/4443400487/) — AECOM
 - 📍 **Location:** Oakland, CA
 - 💰 **Salary:** $156,115/year - $218,560/year
 - 🕒 **Posted:** 2026-07-19
