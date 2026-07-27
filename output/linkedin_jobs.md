@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-23 20:42 UTC*
+*Last updated: 2026-07-27 05:20 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [CLS Toxicology Supervisor](https://www.linkedin.com/jobs/view/4444014724/) — CLS Connect
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $120,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-07-23
+### [Senior Vice President, Preclinical Toxicology](https://www.linkedin.com/jobs/view/4445661754/) — BioSpace
+- 📍 **Location:** Brisbane, CA
+- 💰 **Salary:** $360K – $420K
+- 🕒 **Posted:** 2026-07-27
 
-### [Environmental Health Safety Specialist](https://www.linkedin.com/jobs/view/4444036193/) — Piper Maddox
-- 📍 **Location:** Fresno County, CA
-- 💰 **Salary:** $38.00/hr - $48.00/hr
-- 🕒 **Posted:** 2026-07-23
+### [Coordinator Environmental Health](https://www.linkedin.com/jobs/view/4444878054/) — Hobsons Bay City Council
+- 📍 **Location:** Altona, Victoria, Australia
+- 💰 **Salary:** $123,558.69 to $138,163.90
+- 🕒 **Posted:** 2026-07-27
