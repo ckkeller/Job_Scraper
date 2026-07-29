@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-27 05:20 UTC*
+*Last updated: 2026-07-29 16:51 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Vice President, Preclinical Toxicology](https://www.linkedin.com/jobs/view/4445661754/) — BioSpace
-- 📍 **Location:** Brisbane, CA
-- 💰 **Salary:** $360K – $420K
-- 🕒 **Posted:** 2026-07-27
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4442778941/) — Triumvirate Environmental
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $28 USD - $28 USD
+- 🕒 **Posted:** 2026-07-29
 
-### [Coordinator Environmental Health](https://www.linkedin.com/jobs/view/4444878054/) — Hobsons Bay City Council
-- 📍 **Location:** Altona, Victoria, Australia
-- 💰 **Salary:** $123,558.69 to $138,163.90
-- 🕒 **Posted:** 2026-07-27
+### [Climate and Air Quality Attorney](https://www.linkedin.com/jobs/view/4437833718/) — California Air Resources Board
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $10,852.00/mo - $15,325.00/mo
+- 🕒 **Posted:** 2026-07-29
