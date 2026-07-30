@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 17:41 UTC",
+  "scraped_at": "2026-07-30 17:53 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Woodland",
@@ -13,15 +13,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Woodland",
-      "title": "Water Pollution Control Operator III",
-      "location": "Sacramento/Metro Area",
-      "url": "https://www.calopps.org/woodland/job-20759799",
-      "date_posted": "",
-      "salary": "$7,452.95-$9,512.06 Monthly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
