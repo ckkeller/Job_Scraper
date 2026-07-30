@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-30 20:08 UTC",
+  "scraped_at": "2026-07-30 21:53 UTC",
   "total": 65,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "County of San Diego",
@@ -326,20 +326,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GSI Environmental Inc.",
-      "title": "Environmental Scientist",
-      "location": "Emeryville, California, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
-      "salary": "$97k–$110k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Overview",
       "title": "Environmental Scientist",
       "location": "Alpharetta, Georgia, United States",
@@ -351,6 +337,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "GSI Environmental Inc.",
+      "title": "Environmental Scientist",
+      "location": "Emeryville, California, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=222811&clientkey=84C0F5CB02B1467DD28BA3FC61C63DFD",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Bachelor's in civil/environmental engineering or related, 2 years related experience, skills in geohazard simulation, H&H and groundwater modeling, statistical and ML analysis, numerical modeling, and report preparation.",
+      "salary": "$97k–$110k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -914,20 +914,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "State of Nevada (NV)",
-      "title": "ENVIRONMENTAL SCIENTIST 3",
-      "location": "Las Vegas, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
-      "date_posted": "2026-07-23T21:44:21.000Z",
-      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
