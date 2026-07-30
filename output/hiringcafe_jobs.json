@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30 18:06 UTC",
-  "total": 66,
+  "scraped_at": "2026-07-30 20:08 UTC",
+  "total": 65,
   "new_count": 1,
   "jobs": [
     {
@@ -186,20 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Nevada (NV)",
-      "title": "ENVIRONMENTAL SCIENTIST 3",
-      "location": "Reno, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5417952",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5417952",
-      "date_posted": "2026-07-21T17:57:37.000Z",
-      "description": "Bachelor’s in physical/natural resource/life sciences or engineering plus 3 years environmental experience (or HS+5 yrs, or Environmental Scientist 2), skills in permitting, monitoring, inspections, modeling, and technical reporting.",
-      "salary": "$67k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GHD",
       "title": "Environmental Scientist",
       "location": "Golden, Colorado, United States",
@@ -209,20 +195,6 @@
       "description": "Bachelor's in environmental engineering, geology, or environmental science; 3–6 years experience with project management and emergency response; experience in air monitoring, environmental sampling, ICS, SCAT, GIS, and client management.",
       "salary": "$69k–$115k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CRI Advantage",
-      "title": "Environmental Scientist ",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://criadvantage.isolvedhire.com/jobs/1825665",
-      "direct_url": "https://criadvantage.isolvedhire.com/jobs/1825665",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Bachelor's in environmental science/engineering/geology, 5+ years environmental remediation/site characterization experience, DOE standards knowledge, technical writing, ability to work onsite on a 4x10 schedule.",
-      "salary": "$135k–$270k/yr",
-      "job_type": "Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -239,6 +211,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Pearl City, Hawaii, United States",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "date_posted": "2026-07-09T22:26:54.882Z",
+      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
+      "salary": "$65k–$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -264,20 +250,6 @@
       "date_posted": "2026-07-17T15:31:34.000Z",
       "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
       "salary": "$150k–$190k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Pearl City, Hawaii, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "date_posted": "2026-07-09T22:26:54.882Z",
-      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
-      "salary": "$65k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -452,6 +424,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "date_posted": "2026-07-23T21:44:21.000Z",
+      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
+      "salary": "$67k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Spire Inc.",
       "title": "Environmental Scientist II",
       "location": "Birmingham or Mobile or Pelham or Montgomery",
@@ -508,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport-McMoRan",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://talent.fmjobs.com/careers/job/43028326",
-      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
-      "date_posted": "2026-07-08T18:40:20.000Z",
-      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
-      "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "GFT.",
       "title": "Principal Environmental Scientist",
       "location": "Owings Mills, Maryland, United States",
@@ -533,6 +505,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Freeport-McMoRan",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://talent.fmjobs.com/careers/job/43028326",
+      "direct_url": "https://talent.fmjobs.com/careers/job/43028326",
+      "date_posted": "2026-07-08T18:40:20.000Z",
+      "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -586,6 +572,20 @@
       "date_posted": "2026-07-21T17:18:57.933Z",
       "description": "BS in environmental field, valid driver's license, ability to perform field sampling and site investigations, strong writing and quantitative skills, respirator use, pass drug testing.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SWCA Environmental Consultants",
+      "title": "Senior Environmental Scientist",
+      "location": "Scarborough, Maine, United States",
+      "url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-07-27T04:00:00.000Z",
+      "description": "Bachelor's in relevant environmental science, minimum 8 years consulting or agency experience leading fieldwork, permitting, reports, and client management; ability to travel regionally; supervisory and business development experience.",
+      "salary": "$93k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,20 +858,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SWCA Environmental Consultants",
-      "title": "Senior Environmental Scientist",
-      "location": "Scarborough, Maine, United States",
-      "url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
-      "direct_url": "https://internal-swca.icims.com/jobs/14785/senior-environmental-scientist/job?in_iframe=1",
-      "date_posted": "2026-07-27T04:00:00.000Z",
-      "description": "Bachelor's in relevant environmental science, minimum 8 years consulting or agency experience leading fieldwork, permitting, reports, and client management; ability to travel regionally; supervisory and business development experience.",
-      "salary": "$93k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Vistal",
       "title": "Environmental Scientist I",
       "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
@@ -930,14 +916,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Onterris",
-      "title": "Health Scientist, Project Manager - Toxicology and Exposure Science",
-      "location": "Little Rock, Arkansas, United States",
-      "url": "https://onterris.wd1.myworkdayjobs.com/ont/job/USA-AR-Little-Rock--Northshore-Dr/Health-Scientist--Project-Manager---Toxicology-and-Exposure-Science_R8618",
-      "direct_url": "https://onterris.wd1.myworkdayjobs.com/ont/job/USA-AR-Little-Rock--Northshore-Dr/Health-Scientist--Project-Manager---Toxicology-and-Exposure-Science_R8618",
-      "date_posted": "2026-07-30T00:00:00.000Z",
-      "description": "Bachelor's degree in a related science,4+ years consulting experience (4–7 preferred),ability to manage technical projects in toxicology/exposure,travel up to 15%,and ability to work independently in office and field.",
-      "salary": "$95k–$120k/yr",
+      "company": "State of Nevada (NV)",
+      "title": "ENVIRONMENTAL SCIENTIST 3",
+      "location": "Las Vegas, Nevada, United States",
+      "url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5422193",
+      "date_posted": "2026-07-23T21:44:21.000Z",
+      "description": "Conduct environmental inspections, audits, permit review, compliance monitoring, report writing, data analysis, and enforcement related to stormwater and other environmental programs.",
+      "salary": "$67k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",

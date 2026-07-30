@@ -1,11 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-30 18:06 UTC*
+*Last updated: 2026-07-30 20:08 UTC*
 
-**1 new role(s)** since last run · 66 total in last 30d
+**1 new role(s)** since last run · 65 total in last 30d
 
-### [Health Scientist, Project Manager - Toxicology and Exposure Science](https://onterris.wd1.myworkdayjobs.com/ont/job/USA-AR-Little-Rock--Northshore-Dr/Health-Scientist--Project-Manager---Toxicology-and-Exposure-Science_R8618) — Onterris
-- 📍 **Location:** Little Rock, Arkansas, United States
-- 💰 **Salary:** $95k–$120k/yr
+### [ENVIRONMENTAL SCIENTIST 3](https://www.governmentjobs.com/careers/nv/jobs/5422193) — State of Nevada (NV)
+- 📍 **Location:** Las Vegas, Nevada, United States
+- 💰 **Salary:** $67k–$100k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-30T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-23T21:44:21.000Z
