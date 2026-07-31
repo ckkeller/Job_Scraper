@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 18:13 UTC*
+*Last updated: 2026-07-31 20:13 UTC*
 
-**0 new role(s)** since last run · 61 total in last 30d
+**1 new role(s)** since last run · 60 total in last 30d
 
-No new roles since the last run.
+### [Specialist, IT and Cyber Risk Assessment](https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/) — Lincoln Financial
+- 📍 **Location:** Radnor or Charlotte or Fort Wayne or Greensboro or United States
+- 💰 **Salary:** $56k–$100k/yr
+- **Work mode:** Remote in-state eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-31T00:00:00.000Z

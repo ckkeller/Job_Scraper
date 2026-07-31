@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 18:13 UTC",
-  "total": 61,
-  "new_count": 0,
+  "scraped_at": "2026-07-31 20:13 UTC",
+  "total": 60,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -536,34 +536,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vistal",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/52ddab16-c6b6-4884-85f0-a111cb4367f8/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental science, 3+ years relevant experience, plant ID, GIS experience, knowledge of MN/ND/SD and federal wetland regulations, valid driver's license, insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Moore Engineering, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Plymouth or Saint Cloud or Minnesota or South Dakota or North Dakota or Iowa or Colorado",
-      "url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "direct_url": "https://vistal.rec.pro.ukg.net/MOO1007MOHC/JobBoard/94bf816a-6c0f-40c0-8bc1-e9dbe4e258f2/OpportunityDetail?opportunityId=d2ebf17e-a06c-4b60-b4cf-92546f0831a9",
-      "date_posted": "2026-07-01T18:47:25.002Z",
-      "description": "Bachelor's in biology/ecology/environmental sciences, 3+ years relevant experience, plant ID, GIS proficiency, knowledge of federal and MN/ND/SD wetland regulations, valid driver’s license and insurable.",
-      "salary": "$71k–$97k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "University of California Office of the President",
       "title": "SENIOR RISK ASSESSMENT ANALYST",
       "location": "Oakland, California, United States",
@@ -673,6 +645,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lincoln Financial",
+      "title": "Specialist, IT and Cyber Risk Assessment",
+      "location": "Radnor or Charlotte or Fort Wayne or Greensboro or United States",
+      "url": "https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/",
+      "direct_url": "https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/",
+      "date_posted": "2026-07-31T00:00:00.000Z",
+      "description": "Bachelor's degree (or equivalent),1+ years information security experience,ability to analyze documents,strong written/verbal communication,project management skills,proficiency with Microsoft Office,awareness of Agile.",
+      "salary": "$56k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -858,5 +844,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lincoln Financial",
+      "title": "Specialist, IT and Cyber Risk Assessment",
+      "location": "Radnor or Charlotte or Fort Wayne or Greensboro or United States",
+      "url": "https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/",
+      "direct_url": "https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/",
+      "date_posted": "2026-07-31T00:00:00.000Z",
+      "description": "Bachelor's degree (or equivalent),1+ years information security experience,ability to analyze documents,strong written/verbal communication,project management skills,proficiency with Microsoft Office,awareness of Agile.",
+      "salary": "$56k–$100k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
