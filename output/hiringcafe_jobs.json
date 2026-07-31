@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 21:53 UTC",
+  "scraped_at": "2026-07-31 22:45 UTC",
   "total": 58,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -228,20 +228,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Tetra Tech",
-      "title": "Environmental Scientist",
-      "location": "Pearl City, Hawaii, United States",
-      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
-      "date_posted": "2026-07-09T22:26:54.882Z",
-      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
-      "salary": "$65k–$85k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Penncolor",
       "title": "Environmental Scientist",
       "location": "Pittsburgh, Pennsylvania, United States",
@@ -264,6 +250,20 @@
       "date_posted": "2026-07-17T15:31:34.000Z",
       "description": "5+ years supporting environmental remediation, site characterization, waste management or restoration; technical writing; environmental and radiological analyses; DOE clearance eligibility; US citizenship and pre-employment screening required.",
       "salary": "$150k–$190k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tetra Tech",
+      "title": "Environmental Scientist",
+      "location": "Pearl City, Hawaii, United States",
+      "url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "direct_url": "https://tetratech.referrals.selectminds.com/jobs/environmental-scientist-55576",
+      "date_posted": "2026-07-09T22:26:54.882Z",
+      "description": "Bachelor's in environmental or physical science, 3+ years environmental consulting in Hawaii, DOH HEER program familiarity, field sampling and site investigation experience, MS Office proficiency, valid driver's license.",
+      "salary": "$65k–$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -438,20 +438,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Freeport McMoRan Inc.",
       "title": "Chief Environmental Scientist",
       "location": "Morenci, Arizona, United States",
@@ -460,6 +446,20 @@
       "date_posted": "2026-07-08T00:00:00.000Z",
       "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
       "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -816,34 +816,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "Wilkes-Barre, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/2RBa33nhqyWVTBGhNUfeTK/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/2RBa33nhqyWVTBGhNUfeTK/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "date_posted": "2026-07-31T13:37:57.140Z",
-      "description": "5+ years environmental experience, B.S. in environmental science or related, independent wetland/stream delineation experience, PADEP/USACE permit prep experience, sub-meter GPS proficiency, valid driver’s license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
