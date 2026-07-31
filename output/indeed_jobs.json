@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 01:17 UTC",
-  "total": 3,
-  "new_count": 1,
+  "scraped_at": "2026-07-31 05:18 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Department of Resources Recycling & Recovery",
@@ -38,44 +38,7 @@
       "work_arrangement": "Remote in-state eligible",
       "emails": "",
       "ats": "Indeed"
-    },
-    {
-      "company": "Queensland Government",
-      "title": "Environmental Health Officer - Senior - Cairns",
-      "location": "Far North Queensland, QLD, AU",
-      "url": "https://au.indeed.com/viewjob?jk=95714d7f4b361aec",
-      "direct_url": "https://smartjobs.qld.gov.au/jobtools/jncustomsearch.viewFullSingle?in_organid=14904&in_jncounter=223179956&in_site=Indeed",
-      "company_url": "https://au.indeed.com/cmp/Queensland-Government",
-      "date_posted": "2026-07-29",
-      "description": "**About us:**  \n\nPublic health focuses on the health and wellbeing of populations, rather than of individuals. Cairns Public Health Unit (CPHU) aims to minimise the morbidity and mortality from communicable and vaccine\\-preventable diseases, and environmental health hazards thereby: CPHU fulfils the public health regulatory services on behalf of the Department of Health to ensure sound public health standards are maintained in communities.\n  \n  \n\nOur values were developed by our staff, patients and community. They guide our work and actions every day. Our staff are part of the community we serve. We believe that we can improve health outcomes by involving our community in the planning and evaluation of their local health services.\n  \n  \n\n**About your role:**  \n\nIn this position you will.....\n  \n  \n\nUndertake health risk assessments; research, plan, implement and or oversee the implementation of environmental health projects and programs; and participate in environmental and public health incident responses.\n  \nAdvocate for and apply culturally relevant and ethical approaches to environmental health programs and interventions, in particular for Aboriginal and Torres Strait Islander peoples and culturally and linguistically diverse groups across the Service Area by using high level interpersonal and written communication skills.\n  \nProvide professional mentorship and guidance, in relation to routine procedures and practices, to less experienced environmental health staff and work experience students.\n  \n  \n\nFor more information about this role, please refer to the attached Role Description.\n  \n  \n\nVaccine Preventable Diseases (VPD) evidence as required for your employment in accordance with legislation/government policy and Directives.\n  \n  \n\n**What we offer:**  \n\nCairns and Hinterland Hospital and Health service offer a number of workplace benefits. Besides attractive remuneration, generous superannuation, salary packaging and career development opportunities, we value a healthy work/life balance that allows you take advantage of the sunshine, hiking tracks, swimming spots, reef and rainforest.\n  \n  \n\nLearn what it's like to work with us, in an inclusive and supportive work environment.\n  \n  \n\nDiscover our dynamic and culturally diverse region through community and lifestyle.\n  \n  \n\nListen to what some of our staff have to say about working in our regions.\n  \n  \n\nVisit our website to learn more about our hospitals and health centres.This work is licensed under a Creative Commons Attribution 3\\.0 Australia License.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Queensland Government",
-      "title": "Environmental Health Officer - Senior - Cairns",
-      "location": "Far North Queensland, QLD, AU",
-      "url": "https://au.indeed.com/viewjob?jk=95714d7f4b361aec",
-      "direct_url": "https://smartjobs.qld.gov.au/jobtools/jncustomsearch.viewFullSingle?in_organid=14904&in_jncounter=223179956&in_site=Indeed",
-      "company_url": "https://au.indeed.com/cmp/Queensland-Government",
-      "date_posted": "2026-07-29",
-      "description": "**About us:**  \n\nPublic health focuses on the health and wellbeing of populations, rather than of individuals. Cairns Public Health Unit (CPHU) aims to minimise the morbidity and mortality from communicable and vaccine\\-preventable diseases, and environmental health hazards thereby: CPHU fulfils the public health regulatory services on behalf of the Department of Health to ensure sound public health standards are maintained in communities.\n  \n  \n\nOur values were developed by our staff, patients and community. They guide our work and actions every day. Our staff are part of the community we serve. We believe that we can improve health outcomes by involving our community in the planning and evaluation of their local health services.\n  \n  \n\n**About your role:**  \n\nIn this position you will.....\n  \n  \n\nUndertake health risk assessments; research, plan, implement and or oversee the implementation of environmental health projects and programs; and participate in environmental and public health incident responses.\n  \nAdvocate for and apply culturally relevant and ethical approaches to environmental health programs and interventions, in particular for Aboriginal and Torres Strait Islander peoples and culturally and linguistically diverse groups across the Service Area by using high level interpersonal and written communication skills.\n  \nProvide professional mentorship and guidance, in relation to routine procedures and practices, to less experienced environmental health staff and work experience students.\n  \n  \n\nFor more information about this role, please refer to the attached Role Description.\n  \n  \n\nVaccine Preventable Diseases (VPD) evidence as required for your employment in accordance with legislation/government policy and Directives.\n  \n  \n\n**What we offer:**  \n\nCairns and Hinterland Hospital and Health service offer a number of workplace benefits. Besides attractive remuneration, generous superannuation, salary packaging and career development opportunities, we value a healthy work/life balance that allows you take advantage of the sunshine, hiking tracks, swimming spots, reef and rainforest.\n  \n  \n\nLearn what it's like to work with us, in an inclusive and supportive work environment.\n  \n  \n\nDiscover our dynamic and culturally diverse region through community and lifestyle.\n  \n  \n\nListen to what some of our staff have to say about working in our regions.\n  \n  \n\nVisit our website to learn more about our hospitals and health centres.This work is licensed under a Creative Commons Attribution 3\\.0 Australia License.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "temporary",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
