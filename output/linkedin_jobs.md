@@ -1,16 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 18:55 UTC*
+*Last updated: 2026-07-31 20:45 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4447176139/) — QK
-- 📍 **Location:** Bakersfield, CA
+### [Director, Water Quality & Environmental Compliance](https://www.linkedin.com/jobs/view/4447580846/) — American Water
+- 📍 **Location:** Imperial Beach, CA
+- 💰 **Salary:** $141,390 - $225,350
 - 🕒 **Posted:** 2026-07-31
 
-### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4447180088/) — QK
-- 📍 **Location:** Visalia, CA
-- 🕒 **Posted:** 2026-07-31
-
-### [Senior Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4433267602/) — QK
-- 📍 **Location:** Clovis, CA
+### [Senior Remediation Subject Matter Expert (SME)](https://www.linkedin.com/jobs/view/4447196285/) — AECOM
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $60 to $85
 - 🕒 **Posted:** 2026-07-31
