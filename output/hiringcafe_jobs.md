@@ -1,11 +1,17 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 20:13 UTC*
+*Last updated: 2026-07-31 21:53 UTC*
 
-**1 new role(s)** since last run · 60 total in last 30d
+**2 new role(s)** since last run · 58 total in last 30d
 
-### [Specialist, IT and Cyber Risk Assessment](https://jobs.lincolnfinancial.com/job/Radnor-Specialist%2C-IT-and-Cyber-Risk-Assessment-PA/1414491500/) — Lincoln Financial
-- 📍 **Location:** Radnor or Charlotte or Fort Wayne or Greensboro or United States
-- 💰 **Salary:** $56k–$100k/yr
-- **Work mode:** Remote in-state eligible
+### [Associate Environmental Scientist](https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist) — QK
+- 📍 **Location:** Visalia, California, United States
+- 💰 **Salary:** $67k–$83k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-31T14:35:39.257Z
+
+### [Environmental Scientist II - Williamsport](https://jobs.workable.com/view/2RBa33nhqyWVTBGhNUfeTK/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies) — CDR Companies
+- 📍 **Location:** Wilkes-Barre, Pennsylvania, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-07-31T13:37:57.140Z
