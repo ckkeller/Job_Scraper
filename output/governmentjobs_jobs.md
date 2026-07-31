@@ -1,12 +1,16 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-07-30 17:53 UTC*
+*Last updated: 2026-07-31 17:56 UTC*
 
-**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**3 new role(s)** since last run · 7 total in recent GovernmentJobs postings
 
-### [Environmental Health Specialist I, II, III](https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii) — County of Riverside
-- 📍 **Location:** Throughout Riverside County
-- 💰 **Salary:** $63,544.00 - $112,028.80 Annually
+### [Environmental Health Manager](https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager) — County of Mendocino
+- 📍 **Location:** Ukiah, CA
+- 💰 **Salary:** $97,032.00 - $117,936.00 Annually
 
-### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii) — City of Vista
-- 📍 **Location:** Vista City Hall - 200 Civic Center Drive Vista 92084, CA
-- 💰 **Salary:** $75,183.16 - $100,752.86 Annually
+### [Environmental Health Specialist (Entry/Journey) DOQ](https://www.governmentjobs.com/jobs/5403548-0/environmental-health-specialist-entry-journey-doq) — Solano County
+- 📍 **Location:** Fairfield, CA
+- 💰 **Salary:** $3,047.20 - $4,505.60 Biweekly
+
+### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
+- 📍 **Location:** Yuba City, CA
+- 💰 **Salary:** $67,056.00 - $85,584.00 Annually
