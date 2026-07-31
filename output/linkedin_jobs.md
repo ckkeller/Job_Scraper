@@ -1,9 +1,16 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-07-31 17:07 UTC*
+*Last updated: 2026-07-31 18:55 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Remediation Subject Matter Expert (SME)](https://www.linkedin.com/jobs/view/4445534204/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $60.00/hr - $85.00/hr
+### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4447176139/) — QK
+- 📍 **Location:** Bakersfield, CA
+- 🕒 **Posted:** 2026-07-31
+
+### [Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4447180088/) — QK
+- 📍 **Location:** Visalia, CA
+- 🕒 **Posted:** 2026-07-31
+
+### [Senior Associate Environmental Scientist](https://www.linkedin.com/jobs/view/4433267602/) — QK
+- 📍 **Location:** Clovis, CA
 - 🕒 **Posted:** 2026-07-31
