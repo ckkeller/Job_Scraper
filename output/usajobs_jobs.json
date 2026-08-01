@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 17:08 UTC",
-  "total": 12,
-  "new_count": 5,
+  "scraped_at": "2026-08-01 16:32 UTC",
+  "total": 10,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Transportation Security Administration",
@@ -49,30 +49,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Environmental Protection Agency",
-      "title": "Environmental Protection Specialist",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877942800",
-      "date_posted": "2026-07-24",
-      "salary": "Starting at $64,290 Per year (GS 9-12)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Federal Highway Administration",
       "title": "Environmental Protection Specialist - DIRECT HIRE",
       "location": "Boise, Idaho",
       "url": "https://www.usajobs.gov/job/877623000",
       "date_posted": "2026-07-22",
       "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Maritime Administration",
-      "title": "Environmental Protection Specialist (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877612800",
-      "date_posted": "2026-07-22",
-      "salary": "Starting at $121,785 Per year (GS 13-14)",
       "ats": "USAJOBS"
     },
     {
@@ -112,51 +94,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Transportation Security Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Springfield, Virginia",
-      "url": "https://www.usajobs.gov/job/878787500",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $102,415 Per year (SV H-I)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of Transportation",
-      "title": "Environmental Protection Specialist - DIRECT HIRE",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/878709100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $121,785 Per year (GS 13-14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Collins, Colorado",
-      "url": "https://www.usajobs.gov/job/878748100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $64,453 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Pearl Harbor, Hawaii",
-      "url": "https://www.usajobs.gov/job/878689300",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $64,438 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Assistant",
-      "location": "Aguadilla, Puerto Rico",
-      "url": "https://www.usajobs.gov/job/878722200",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $50,460 Per year (GS 7)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
