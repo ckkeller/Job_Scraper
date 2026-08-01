@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-31 17:56 UTC",
-  "total": 7,
-  "new_count": 3,
+  "scraped_at": "2026-08-01 17:19 UTC",
+  "total": 6,
+  "new_count": 0,
   "jobs": [
+    {
+      "company": "Carlsbad, City of (CA)",
+      "title": "Environmental Specialist I",
+      "location": "Carlsbad, CA",
+      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
+      "date_posted": "",
+      "salary": "$69,721.60 - $84,822.40 Annually",
+      "ats": "NEOGOV"
+    },
     {
       "company": "County of Mendocino",
       "title": "Environmental Health Manager",
@@ -10,15 +19,6 @@
       "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
       "date_posted": "",
       "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Kern County",
-      "title": "Environmental Health Specialist-In Training",
-      "location": "Bakersfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5413929-0/environmental-health-specialist-in-training",
-      "date_posted": "",
-      "salary": "$4,701.62 - $5,618.88 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -49,15 +49,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Carlsbad, City of (CA)",
-      "title": "Environmental Specialist I",
-      "location": "Carlsbad, CA",
-      "url": "https://www.governmentjobs.com/jobs/5407714-0/environmental-specialist-i",
-      "date_posted": "",
-      "salary": "$69,721.60 - $84,822.40 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Vista",
       "title": "Environmental Specialist I/II",
       "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
@@ -67,33 +58,5 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Manager",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5431172-0/environmental-health-manager",
-      "date_posted": "",
-      "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Solano County",
-      "title": "Environmental Health Specialist (Entry/Journey) DOQ",
-      "location": "Fairfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5403548-0/environmental-health-specialist-entry-journey-doq",
-      "date_posted": "",
-      "salary": "$3,047.20 - $4,505.60 Biweekly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Regional Government Services",
-      "title": "Air Quality Specialist I for the Feather River Air Quality Management District",
-      "location": "Yuba City, CA",
-      "url": "https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district",
-      "date_posted": "",
-      "salary": "$67,056.00 - $85,584.00 Annually",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
