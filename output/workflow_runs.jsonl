@@ -2019,3 +2019,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "30715124915", "timestamp": "2026-08-01T19:44:24Z", "workflow": "linkedin"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30715328898", "timestamp": "2026-08-01T19:45:01Z", "workflow": "ziprecruiter"}
 {"job_count": 0, "run_attempt": "1", "run_id": "30715456237", "timestamp": "2026-08-01T19:47:01Z", "workflow": "google_jobs"}
+{"job_count": 6, "run_attempt": "1", "run_id": "30716024295", "timestamp": "2026-08-01T20:02:09Z", "workflow": "indeed"}
