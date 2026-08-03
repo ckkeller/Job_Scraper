@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 22:45 UTC",
+  "scraped_at": "2026-08-03 23:55 UTC",
   "total": 61,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -32,20 +32,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Yagroup",
       "title": "Senior Toxicologist",
       "location": "United States",
@@ -71,6 +57,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -452,6 +452,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Freeport McMoRan Inc.",
+      "title": "Chief Environmental Scientist",
+      "location": "Morenci, Arizona, United States",
+      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
+      "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "HDR",
       "title": "Environmental Scientist 2",
       "location": "Bellevue, Washington, United States",
@@ -502,20 +516,6 @@
       "date_posted": "2026-07-08T18:40:20.000Z",
       "description": "Bachelor's in a related field with 7+ years (or Master's with 5+ years); expertise in environmental regulations, permits, project management, and team leadership for large mining operations.",
       "salary": "$112k–$160k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Dewberry",
-      "title": "Environmental Scientist III",
-      "location": "Fairfax or Virginia Beach or Richmond",
-      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
-      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
-      "date_posted": "2026-07-28T04:00:00.000Z",
-      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
-      "salary": "$81k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -788,14 +788,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Freeport McMoRan Inc.",
-      "title": "Chief Environmental Scientist",
-      "location": "Morenci, Arizona, United States",
-      "url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "direct_url": "https://jobs.fcx.com/job/Morenci-Chief-Environmental-Scientist-AZ-85540/1406931400/",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
-      "salary": "$112k–$160k/yr",
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Fairfax or Virginia Beach or Richmond",
+      "url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16035/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-07-28T04:00:00.000Z",
+      "description": "5+ years environmental experience, B.S. in related field, ability to lead CWA permitting and NEPA, fieldwork capability, technical report writing, agency coordination.",
+      "salary": "$81k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,20 +858,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Allen Engineering and Science, Inc.",
-      "title": "Environmental Scientist",
-      "location": "Hattiesburg, Mississippi, United States",
-      "url": "https://allenes.bamboohr.com/careers/44",
-      "direct_url": "https://allenes.bamboohr.com/careers/44",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "B.S. in a related field, 2–5 years environmental consulting/regulatory experience preferred, valid driver\\u0002s license, strong technical writing, field sampling and permitting experience, ability to lift 50 lb and work outdoors.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
