@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03 01:19 UTC",
+  "scraped_at": "2026-08-03 05:24 UTC",
   "total": 60,
   "new_count": 0,
   "jobs": [
@@ -32,6 +32,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yagroup",
       "title": "Senior Toxicologist",
       "location": "United States",
@@ -57,20 +71,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -312,20 +312,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Irvine, California, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
-      "date_posted": "2026-07-20T16:25:42.670Z",
-      "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
-      "salary": "$90k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Kimley-Horn",
       "title": "Environmental Scientist",
       "location": "Deerfield, Illinois, United States",
@@ -334,6 +320,20 @@
       "date_posted": "2026-07-08T15:43:00.000Z",
       "description": "5+ years environmental experience, bachelor’s or master’s in related field, wetland/species permitting knowledge, ArcGIS familiarity, technical writing, ecological field work, client coordination, and travel flexibility.",
       "salary": "$90k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
+      "date_posted": "2026-07-20T16:25:42.670Z",
+      "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
+      "salary": "$90k–$100k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -424,20 +424,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Freeport McMoRan Inc.",
       "title": "Chief Environmental Scientist",
       "location": "Morenci, Arizona, United States",
@@ -446,6 +432,20 @@
       "date_posted": "2026-07-08T00:00:00.000Z",
       "description": "Bachelor's in environmental or related science with 7 years' experience OR Master's with 5 years; strong knowledge of environmental regulations, permitting, air/water quality, and project leadership.",
       "salary": "$112k–$160k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -606,20 +606,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Booz Allen Hamilton",
-      "title": "Cybersecurity Risk Assessment Specialist",
-      "location": "Stennis Space Center, Mississippi, United States",
-      "url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
-      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
-      "date_posted": "2026-07-28T12:00:00.000Z",
-      "description": "5+ years supporting cybersecurity accreditation/authorization in federal/classified environments, Xacta GRC experience, RMF lifecycle experience, NIST SP 800-53 knowledge, TS clearance required.",
-      "salary": "$99k–$225k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Bah",
       "title": "Cybersecurity Risk Assessment Specialist",
       "location": "Stennis Space Center, Mississippi, United States",
@@ -627,6 +613,20 @@
       "direct_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Stennis-Space-Center-MS/Cybersecurity-Risk-Assessment-Specialist_R0245286",
       "date_posted": "2026-07-28T00:00:00.000Z",
       "description": "5+ years supporting RMF/authorization and Xacta GRC tooling, experience producing SSPs/POA&Ms and vulnerability-driven monitoring, knowledge of NIST SP 800-53, and Top Secret clearance eligibility.",
+      "salary": "$99k–$225k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "title": "Cybersecurity Risk Assessment Specialist",
+      "location": "Stennis Space Center, Mississippi, United States",
+      "url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "direct_url": "https://careers.boozallen.com/jobs/JobDetail/Stennis-Space-Center-Cybersecurity-Risk-Assessment-Specialist-R0245286/127898",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "5+ years supporting cybersecurity accreditation/authorization in federal/classified environments, Xacta GRC experience, RMF lifecycle experience, NIST SP 800-53 knowledge, TS clearance required.",
       "salary": "$99k–$225k/yr",
       "job_type": "Full Time",
       "is_remote": false,
