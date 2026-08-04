@@ -1,5 +1,5 @@
 # 🎓 CSU Careers — California State University Environmental / Toxicology Roles
-*Last updated: 2026-08-03 18:22 UTC*
+*Last updated: 2026-08-04 18:15 UTC*
 
 **0 new role(s)** since last run · 0 total in current CSU Careers postings
 
