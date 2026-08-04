@@ -1,12 +1,19 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-03 18:12 UTC*
+*Last updated: 2026-08-04 18:07 UTC*
 
-**2 new role(s)** since last run · 7 total in recent GovernmentJobs postings
+**4 new role(s)** since last run · 10 total in recent GovernmentJobs postings
 
-### [Water Quality & Environmental Compliance Supervisor](https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor) — West Basin Municipal Water District
-- 📍 **Location:** Carson, CA
-- 💰 **Salary:** $138,534.00 - $190,484.00 Annually
+### [Water Quality Regional Manager (Natural Resource Protection and Sustainability Manager 2)](https://www.governmentjobs.com/jobs/147074-1/water-quality-regional-manager-natural-resource-protection-and-sustainability-ma) — Oregon Department of Environmental Quality
+- 📍 **Location:** Bend, OR ; Klamath Falls, OR
+- 💰 **Salary:** $7,537.00 - $11,657.00 Monthly
 
-### [Air Quality Specialist I for the Feather River Air Quality Management District](https://www.governmentjobs.com/jobs/5410101-0/air-quality-specialist-i-for-the-feather-river-air-quality-management-district) — Regional Government Services
-- 📍 **Location:** Yuba City, CA
-- 💰 **Salary:** $67,056.00 - $85,584.00 Annually
+### [Environmental Specialist I/II](https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii) — City of Vista
+- 📍 **Location:** Vista City Hall - 200 Civic Center Drive Vista 92084, CA
+- 💰 **Salary:** $75,183.16 - $100,752.86 Annually
+
+### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
+- 📍 **Location:** Melbourne, FL
+
+### [Registered Environmental Health Specialist](https://www.governmentjobs.com/jobs/5406106-0/registered-environmental-health-specialist) — City of Berkeley
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $111,664.80 - $129,410.74 Annually
