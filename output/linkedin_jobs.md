@@ -1,14 +1,13 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-05 20:50 UTC*
+*Last updated: 2026-08-05 22:36 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Senior Environmental Specialist](https://www.linkedin.com/jobs/view/4448051833/) — Oldcastle APG
-- 📍 **Location:** Fontana, CA
-- 💰 **Salary:** $110,000-115,000
+### [Environmental Compliance Manager](https://www.linkedin.com/jobs/view/4449937231/) — City of Redding
+- 📍 **Location:** Redding, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Remediation Subject Matter Expert (SME)](https://www.linkedin.com/jobs/view/4447196285/) — AECOM
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $60 to $85
+### [Supervisor II, Water Quality](https://www.linkedin.com/jobs/view/4449932085/) — Liberty
+- 📍 **Location:** Downey, CA
+- 💰 **Salary:** $120,000.00- $160,000.00 per year
 - 🕒 **Posted:** 2026-08-05
