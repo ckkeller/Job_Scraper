@@ -1,23 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-04 22:40 UTC*
+*Last updated: 2026-08-05 00:26 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Advisor, Chemical Hazard & SDS Author, Product Stewardship](https://www.linkedin.com/jobs/view/4446695609/) — Nutrien
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $79,100 - $124,190,
-- 🕒 **Posted:** 2026-08-04
+### [Assistant Water Resources Specialist I/II (Limited Term)](https://www.linkedin.com/jobs/view/4449408343/) — EHSCareers
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $118,060.80 - $151,049.60 Annually
+- 🕒 **Posted:** 2026-08-05
 
-### [Product Stewardship and Chemical Compliance Manager](https://www.linkedin.com/jobs/view/4449081227/) — HP
-- 📍 **Location:** Vancouver, WA
-- 💰 **Salary:** $105,050 to $161,800 USD annually
-- 🕒 **Posted:** 2026-08-04
-
-### [Product Stewardship and Chemical Compliance Manager](https://www.linkedin.com/jobs/view/4449085141/) — HP
-- 📍 **Location:** Corvallis, OR
-- 💰 **Salary:** $105,050 to $161,800 USD annually
-- 🕒 **Posted:** 2026-08-04
-
-### [Hazardous Materials Consultant](https://www.linkedin.com/jobs/view/4448578912/) — BBN Consulting
-- 📍 **Location:** Hawthorne, Queensland, Australia
-- 🕒 **Posted:** 2026-08-04
+### [Sr. Associate, Disaster Recovery and Remediation](https://www.linkedin.com/jobs/view/4448586825/) — Qcells North America
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $70,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-08-05
