@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 01:11 UTC",
-  "total": 63,
-  "new_count": 0,
+  "scraped_at": "2026-08-05 04:49 UTC",
+  "total": 62,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -32,6 +32,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yagroup",
       "title": "Senior Toxicologist",
       "location": "United States",
@@ -57,20 +71,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -158,17 +158,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Environmental Protection Agency",
-      "title": "Biologist/Toxicologist/Physical Scientist/Chemist",
-      "location": "Washington or Durham or Cincinnati",
-      "url": "https://www.usajobs.gov/job/878410200",
-      "direct_url": "https://www.usajobs.gov/job/878410200",
-      "date_posted": "2026-07-29T09:42:34.250Z",
-      "description": "U.S. citizen required. GS-14: 1 year specialized experience equivalent to GS-13 conducting scientific analyses for chemical risk-management under TSCA, providing technical policy expertise, and communicating scientific concepts. Relevant degree required per series and background investigation required.",
-      "salary": "$131k–$187k/yr",
+      "company": "State of Utah",
+      "title": "Chief Scientist - Forensic Toxicology",
+      "location": "Taylorsville, Utah, United States",
+      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1723?c=utdgohcm",
+      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1723?c=utdgohcm",
+      "date_posted": "2026-07-22T00:00:00.000Z",
+      "description": "Master's in forensic toxicology or chemistry (PhD preferred), proficiency with GC/MS, LC/MS/MS, ELISA, supervisory experience in forensic toxicology labs, knowledge of ABFT accreditation standards, ability to provide expert testimony and manage budgets/grants.",
+      "salary": "$90k–$151k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -183,20 +183,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Utah",
-      "title": "Chief Scientist - Forensic Toxicology",
-      "location": "Taylorsville, Utah, United States",
-      "url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1723?c=utdgohcm",
-      "direct_url": "https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/1723?c=utdgohcm",
-      "date_posted": "2026-07-22T00:00:00.000Z",
-      "description": "Master's in forensic toxicology or chemistry (PhD preferred), proficiency with GC/MS, LC/MS/MS, ELISA, supervisory experience in forensic toxicology labs, knowledge of ABFT accreditation standards, ability to provide expert testimony and manage budgets/grants.",
-      "salary": "$90k–$151k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -286,6 +272,20 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -309,20 +309,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -662,14 +648,28 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jefferson County Public Schools",
-      "title": "Coordinator Risk Assessment (2026-2027)",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40440",
-      "direct_url": "https://www.applitrack.com/jefferson/onlineapp/jobpostings/view.asp?AppliTrackJobId=40440",
-      "date_posted": "2026-07-27T12:00:00.000Z",
-      "description": "Bachelor's degree required; demonstrated experience leading operational responses and working with diverse youth; effective communication skills.",
-      "salary": "",
+      "company": "Tecolote Research, Inc.",
+      "title": "Schedule Risk Assessment (SRA) Analyst – Master Scheduler",
+      "location": "San Diego, California, United States",
+      "url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
+      "direct_url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
+      "date_posted": "2026-08-04T19:06:08.151Z",
+      "description": "5+ years scheduling/program controls experience, Bachelor\\u0002s degree, active DoD Secret clearance, IMS and schedule risk assessment experience, proficiency with Microsoft Project or Primavera P6, Monte Carlo/SRA experience desired.",
+      "salary": "$80k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Wealth Management Operational Risk - Non-Financial Risk Assessment Assistant Vice President",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549799464691",
+      "direct_url": "https://morganstanley.eightfold.ai/careers/job/549799464691",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "5+ years risk management experience in financial services, project management, stakeholder coordination, strong analytical and communication skills, advanced Excel and PowerPoint, Bachelor’s degree.",
+      "salary": "$80k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,14 +858,44 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Nevada",
-      "title": "ENVIRONMENTAL SCIENTIST 2",
-      "location": "Reno, Nevada, United States",
-      "url": "https://www.governmentjobs.com/careers/nv/jobs/5425254",
-      "direct_url": "https://www.governmentjobs.com/careers/nv/jobs/5425254",
-      "date_posted": "2026-07-26T17:16:56.000Z",
-      "description": "Bachelor's in physical/natural resource/life sciences or engineering plus 18 months environmental experience OR HS plus 3.5 years experience; valid driver\\u0002s license required; ability to perform permitting, compliance, sampling, inspections, and technical reporting.",
-      "salary": "$64k–$96k/yr",
+      "company": "CDR Companies",
+      "title": "Environmental Scientist II - Williamsport",
+      "location": "State College, Pennsylvania, United States",
+      "url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
+      "date_posted": "2026-08-04T12:57:49.653Z",
+      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver's license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Tecolote Research, Inc.",
+      "title": "Schedule Risk Assessment (SRA) Analyst – Master Scheduler",
+      "location": "San Diego, California, United States",
+      "url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
+      "direct_url": "https://www.tecolote.com/careers/job/20df0e86-b111-47b8-bffa-7993e34cdb70",
+      "date_posted": "2026-08-04T19:06:08.151Z",
+      "description": "5+ years scheduling/program controls experience, Bachelor\\u0002s degree, active DoD Secret clearance, IMS and schedule risk assessment experience, proficiency with Microsoft Project or Primavera P6, Monte Carlo/SRA experience desired.",
+      "salary": "$80k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Morgan Stanley",
+      "title": "Wealth Management Operational Risk - Non-Financial Risk Assessment Assistant Vice President",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://morganstanley.eightfold.ai/careers/job/549799464691",
+      "direct_url": "https://morganstanley.eightfold.ai/careers/job/549799464691",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "5+ years risk management experience in financial services, project management, stakeholder coordination, strong analytical and communication skills, advanced Excel and PowerPoint, Bachelor’s degree.",
+      "salary": "$80k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -874,17 +904,16 @@
     {
       "company": "CDR Companies",
       "title": "Environmental Scientist II - Williamsport",
-      "location": "Wilkes-Barre, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/2RBa33nhqyWVTBGhNUfeTK/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/2RBa33nhqyWVTBGhNUfeTK/environmental-scientist-ii---williamsport-in-wilkes-barre-at-cdr-companies",
-      "date_posted": "2026-07-31T13:37:57.140Z",
-      "description": "5+ years environmental experience, B.S. in environmental science or related, independent wetland/stream delineation experience, PADEP/USACE permit prep experience, sub-meter GPS proficiency, valid driver’s license.",
+      "location": "State College, Pennsylvania, United States",
+      "url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
+      "direct_url": "https://jobs.workable.com/view/56QrJw3QtxvpAPwBTDMMiq/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
+      "date_posted": "2026-08-04T12:57:49.653Z",
+      "description": "5+ years environmental experience, BS in Environmental Science or related, independent wetland/stream delineation, PADEP/USACE permit preparation, sub-meter GPS experience, Microsoft Office proficiency, valid driver's license.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
