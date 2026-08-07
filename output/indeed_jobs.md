@@ -1,10 +1,16 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 04:16 UTC*
+*Last updated: 2026-08-07 16:36 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-### [Environmental Science Senior II - (Natural Resource Management / Biology)](https://www.indeed.com/viewjob?jk=a886e04178ac5744) — SoCalGas
+### [Environmental Science Senior II - (Natural Resource Management / Biology)](https://www.indeed.com/viewjob?jk=f13a8e946280503c) — SoCalGas
 - 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $116k–$182k/yr
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-08-06
+
+### [Associate Director - Water Resources](https://au.indeed.com/viewjob?jk=2665463e07267300) — AECOM
+- 📍 **Location:** Newcastle West, NSW, AU
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
