@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 17:37 UTC",
-  "total": 64,
-  "new_count": 2,
+  "scraped_at": "2026-08-07 18:33 UTC",
+  "total": 63,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -144,13 +144,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Cincinnati: Founder of Co-op, Leader in Co-op",
+      "company": "University of Cincinnati",
       "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
       "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
-      "direct_url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
+      "url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
+      "direct_url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
       "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "MD or relevant doctoral degree, completion of pathology residency and clinical chemistry fellowship or equivalent lab experience, Ohio medical licensure, experience in test development, validation, lab automation, and consultation.",
+      "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -214,20 +214,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "GHD",
-      "title": "Environmental Scientist",
-      "location": "Golden, Colorado, United States",
-      "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "direct_url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/27565",
-      "date_posted": "2026-07-08T18:21:42.000Z",
-      "description": "Bachelor's in environmental engineering, geology, or environmental science; 3–6 years experience with project management and emergency response; experience in air monitoring, environmental sampling, ICS, SCAT, GIS, and client management.",
-      "salary": "$69k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Dewberry",
       "title": "Environmental Scientist",
       "location": "Panama City, Florida, United States",
@@ -270,6 +256,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist ",
+      "location": "Rockville or North America",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "date_posted": "2026-08-05T19:03:36.000Z",
+      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
+      "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Pearl City, Hawaii, United States",
@@ -292,20 +292,6 @@
       "date_posted": "2026-07-16T00:00:00.000Z",
       "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -902,28 +888,14 @@
   ],
   "new_jobs": [
     {
-      "company": "University of Cincinnati: Founder of Co-op, Leader in Co-op",
+      "company": "University of Cincinnati",
       "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
       "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
-      "direct_url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
+      "url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
+      "direct_url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
       "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "MD or relevant doctoral degree, completion of pathology residency and clinical chemistry fellowship or equivalent lab experience, Ohio medical licensure, experience in test development, validation, lab automation, and consultation.",
+      "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Specialized Risk Assessment",
-      "location": "New York City, New York, United States",
-      "url": "https://www.metacareers.com/profile/job_details/27594242883591804",
-      "direct_url": "https://www.metacareers.com/profile/job_details/27594242883591804",
-      "date_posted": "2026-08-06T20:56:52.650Z",
-      "description": "Requires 8+ years in risk management, business incident response, or program management; experience with risk frameworks, incident response, business continuity, cross-functional leadership, reporting, and systems thinking.",
-      "salary": "$153k–$209k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
