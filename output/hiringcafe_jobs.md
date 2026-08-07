@@ -1,18 +1,25 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-06 04:50 UTC*
+*Last updated: 2026-08-07 00:34 UTC*
 
-**2 new role(s)** since last run · 65 total in last 30d
+**3 new role(s)** since last run · 63 total in last 30d
 
-### [Environmental Scientist](https://careers.colliersengineering.com/jobs/13912?lang=en-us) — Colliers Engineering & Design
-- 📍 **Location:** Mount Laurel, New Jersey, United States
-- 💰 **Salary:** $65k–$83k/yr
-- **Work mode:** On-site
-- **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-05T23:12:09.000Z
-
-### [Environmental Scientist I-III](https://utdgohcm.csod.com/ux/ats/careersite/4/home/requisition/2059?c=utdgohcm) — Utah Department of Environmental Quality
-- 📍 **Location:** Salt Lake City, Utah, United States
-- 💰 **Salary:** $54k–$112k/yr
+### [Toxicologist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003) — Integral Consulting Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $65k–$115k/yr
 - **Work mode:** Telecommute eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-06T17:54:48.000Z
+
+### [Senior Veterinary Toxicologist – Product Safety](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252) — Procter & Gamble
+- 📍 **Location:** Cincinnati, Ohio, United States
+- 💰 **Salary:** $144k–$219k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
+
+### [Research Scientist 1 (Water Pollution)](https://statejobsny.com/public/vacancyDetailsView.cfm?id=221289) — New York State
+- 📍 **Location:** Albany, New York, United States
+- 💰 **Salary:** $67k–$85k/yr
+- **Work mode:** Telecommute eligible
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
