@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-07 17:37 UTC*
+*Last updated: 2026-08-07 18:33 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [AIR POLLUTION SPECIALIST](https://www.indeed.com/viewjob?jk=0673d9a17f0fc41f) — State Air Resources Board
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $5918–$11k/mo
+- **Work mode:** Remote in-state eligible
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-07
