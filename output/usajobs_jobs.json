@@ -1,8 +1,35 @@
 {
-  "scraped_at": "2026-08-05 17:06 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-08-07 16:28 UTC",
+  "total": 9,
+  "new_count": 3,
   "jobs": [
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Fort Worth, Texas",
+      "url": "https://www.usajobs.gov/job/879114700",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $67,100 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Riley, Kansas",
+      "url": "https://www.usajobs.gov/job/879503300",
+      "date_posted": "2026-08-06",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Protection Specialist",
+      "location": "Wheeler Army Airfield, Hawaii",
+      "url": "https://www.usajobs.gov/job/879486300",
+      "date_posted": "2026-08-06",
+      "salary": "Starting at $111,119 Per year (GS 13)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Animal and Plant Health Inspection Service",
       "title": "Environmental Protection Specialist",
@@ -40,30 +67,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Collins, Colorado",
-      "url": "https://www.usajobs.gov/job/878748100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $64,453 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Commander, Navy Installations Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
       "location": "Pearl Harbor, Hawaii",
       "url": "https://www.usajobs.gov/job/878689300",
       "date_posted": "2026-07-30",
       "salary": "Starting at $64,438 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Topeka, Kansas",
-      "url": "https://www.usajobs.gov/job/878592100",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $75,897 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
@@ -76,5 +85,33 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Commander, Navy Installations Command",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Fort Worth, Texas",
+      "url": "https://www.usajobs.gov/job/879114700",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $67,100 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Environmental Protection Specialist",
+      "location": "Fort Riley, Kansas",
+      "url": "https://www.usajobs.gov/job/879503300",
+      "date_posted": "2026-08-06",
+      "salary": "Starting at $61,722 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Protection Specialist",
+      "location": "Wheeler Army Airfield, Hawaii",
+      "url": "https://www.usajobs.gov/job/879486300",
+      "date_posted": "2026-08-06",
+      "salary": "Starting at $111,119 Per year (GS 13)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
