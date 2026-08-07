@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 22:21 UTC",
-  "total": 62,
-  "new_count": 0,
+  "scraped_at": "2026-08-07 23:21 UTC",
+  "total": 63,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -144,13 +144,13 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Cincinnati",
+      "company": "University of Cincinnati: Founder of Co-op, Leader in Co-op",
       "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
       "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
-      "direct_url": "https://jobs.uc.edu/job/Cincinnati-Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine-OH-45221/1410747300/",
+      "url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
+      "direct_url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
       "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Medical degree or relevant doctorate, completed pathology residency, fellowship or ≥12 months clinical chemistry experience, Ohio medical licensure, experience with test development, method validation, and supervision of high-complexity testing.",
+      "description": "MD or relevant doctoral degree, completion of pathology residency and clinical chemistry fellowship or equivalent lab experience, Ohio medical licensure, experience in test development, validation, lab automation, and consultation.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -242,14 +242,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Apex Companies",
-      "title": "Environmental Scientist ",
-      "location": "Rockville or North America",
-      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
-      "date_posted": "2026-08-05T19:03:36.000Z",
-      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
-      "salary": "$45k–$55k/yr",
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -264,6 +264,20 @@
       "date_posted": "2026-07-28T23:21:00.000Z",
       "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Apex Companies",
+      "title": "Environmental Scientist ",
+      "location": "Rockville or North America",
+      "url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "direct_url": "https://job-boards.greenhouse.io/apexcompanies/jobs/5381157008",
+      "date_posted": "2026-08-05T19:03:36.000Z",
+      "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
+      "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -620,6 +634,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Deringer",
+      "title": "Customs Compliance Risk Assessment Specialist",
+      "location": "United States",
+      "url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
+      "direct_url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
+      "date_posted": "2026-08-07T20:38:58.022Z",
+      "description": "Licensed customs broker, bachelor's degree or equivalent experience, and 5+ years in customs brokerage or trade compliance. Requires customs regulations, risk assessment, analytical, problem-solving, and communication skills.",
+      "salary": "$65k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tecolote Research, Inc.",
       "title": "Schedule Risk Assessment (SRA) Analyst – Master Scheduler",
       "location": "San Diego, California, United States",
@@ -687,20 +715,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Meta",
-      "title": "Program Manager, Specialized Risk Assessment",
-      "location": "New York City, New York, United States",
-      "url": "https://www.metacareers.com/profile/job_details/27594242883591804",
-      "direct_url": "https://www.metacareers.com/profile/job_details/27594242883591804",
-      "date_posted": "2026-08-06T20:56:52.650Z",
-      "description": "Requires 8+ years in risk management, business incident response, or program management; experience with risk frameworks, incident response, business continuity, cross-functional leadership, reporting, and systems thinking.",
-      "salary": "$153k–$209k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -872,5 +886,48 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "University of Cincinnati: Founder of Co-op, Leader in Co-op",
+      "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
+      "location": "Cincinnati, Ohio, United States",
+      "url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
+      "direct_url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "MD or relevant doctoral degree, completion of pathology residency and clinical chemistry fellowship or equivalent lab experience, Ohio medical licensure, experience in test development, validation, lab automation, and consultation.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Deringer",
+      "title": "Customs Compliance Risk Assessment Specialist",
+      "location": "United States",
+      "url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
+      "direct_url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
+      "date_posted": "2026-08-07T20:38:58.022Z",
+      "description": "Licensed customs broker, bachelor's degree or equivalent experience, and 5+ years in customs brokerage or trade compliance. Requires customs regulations, risk assessment, analytical, problem-solving, and communication skills.",
+      "salary": "$65k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    }
+  ]
 }
