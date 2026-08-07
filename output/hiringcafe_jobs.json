@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07 21:24 UTC",
+  "scraped_at": "2026-08-07 22:21 UTC",
   "total": 62,
   "new_count": 0,
   "jobs": [
@@ -46,6 +46,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Yagroup",
       "title": "Senior Toxicologist",
       "location": "United States",
@@ -71,20 +85,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
