@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-07 16:28 UTC",
-  "total": 9,
-  "new_count": 3,
+  "scraped_at": "2026-08-08 15:59 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "U.S. Coast Guard",
+      "title": "Environmental Protection Specialist",
+      "location": "Warrenton, Oregon",
+      "url": "https://www.usajobs.gov/job/879804900",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $61,722 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Commander, Navy Installations Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
@@ -40,15 +49,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Marine Corps",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Quantico, Virginia",
-      "url": "https://www.usajobs.gov/job/878936300",
-      "date_posted": "2026-08-03",
-      "salary": "Starting at $85,447 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Transportation Security Administration",
       "title": "Environmental Protection Specialist",
       "location": "Springfield, Virginia",
@@ -67,15 +67,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Pearl Harbor, Hawaii",
-      "url": "https://www.usajobs.gov/job/878689300",
-      "date_posted": "2026-07-30",
-      "salary": "Starting at $64,438 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -87,30 +78,12 @@
   ],
   "new_jobs": [
     {
-      "company": "Commander, Navy Installations Command",
-      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
-      "location": "Fort Worth, Texas",
-      "url": "https://www.usajobs.gov/job/879114700",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $67,100 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
+      "company": "U.S. Coast Guard",
       "title": "Environmental Protection Specialist",
-      "location": "Fort Riley, Kansas",
-      "url": "https://www.usajobs.gov/job/879503300",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $61,722 Per year (GS 9-11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "United States Army Installation Management Command",
-      "title": "Supervisory Environmental Protection Specialist",
-      "location": "Wheeler Army Airfield, Hawaii",
-      "url": "https://www.usajobs.gov/job/879486300",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $111,119 Per year (GS 13)",
+      "location": "Warrenton, Oregon",
+      "url": "https://www.usajobs.gov/job/879804900",
+      "date_posted": "2026-08-07",
+      "salary": "Starting at $61,722 Per year (GS 9)",
       "ats": "USAJOBS"
     }
   ]
