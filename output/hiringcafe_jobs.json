@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 23:21 UTC",
+  "scraped_at": "2026-08-08 00:35 UTC",
   "total": 63,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -886,48 +886,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "University of Cincinnati: Founder of Co-op, Leader in Co-op",
-      "title": "Clinical Chemist & Toxicologist, COM Pathology & Laboratory Medicine",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
-      "direct_url": "https://jobs.uc.edu/job/Clinical-Chemist-&-Toxicologist%2C-COM-Pathology-&-Laboratory-Medicine/102877-en_US/",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "MD or relevant doctoral degree, completion of pathology residency and clinical chemistry fellowship or equivalent lab experience, Ohio medical licensure, experience in test development, validation, lab automation, and consultation.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Deringer",
-      "title": "Customs Compliance Risk Assessment Specialist",
-      "location": "United States",
-      "url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
-      "direct_url": "https://recruiting.ultipro.com/and1007ander/JobBoard/030925a7-6a27-6b61-9c69-34c22ddb7fab/OpportunityDetail?opportunityId=10adc2c9-316d-4c90-85ac-d77ccdbbc140",
-      "date_posted": "2026-08-07T20:38:58.022Z",
-      "description": "Licensed customs broker, bachelor's degree or equivalent experience, and 5+ years in customs brokerage or trade compliance. Requires customs regulations, risk assessment, analytical, problem-solving, and communication skills.",
-      "salary": "$65k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
