@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 17:17 UTC",
+  "scraped_at": "2026-08-09 18:18 UTC",
   "total": 61,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -858,20 +858,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Procter & Gamble",
-      "title": "Senior Veterinary Toxicologist – Product Safety",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "direct_url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/Senior-Veterinary-Toxicologist---Product-Safety_R000156252",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
-      "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
