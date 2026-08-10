@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-10 16:17 UTC*
+*Last updated: 2026-08-10 17:16 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Equipment Management and Environmental Monitoring Manager](https://www.linkedin.com/jobs/view/4451565785/) — Element Materials Technology
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $90k-$110k
+- 🕒 **Posted:** 2026-08-10
