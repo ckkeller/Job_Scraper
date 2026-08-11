@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 16:26 UTC",
-  "total": 9,
-  "new_count": 1,
+  "scraped_at": "2026-08-11 16:28 UTC",
+  "total": 7,
+  "new_count": 0,
   "jobs": [
     {
       "company": "U.S. Coast Guard",
@@ -49,30 +49,12 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "Animal and Plant Health Inspection Service",
-      "title": "Environmental Protection Specialist",
-      "location": "Manhattan, Kansas",
-      "url": "https://www.usajobs.gov/job/879063800",
-      "date_posted": "2026-08-04",
-      "salary": "Starting at $50,460 Per year (GS 7)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Transportation Security Administration",
       "title": "Environmental Protection Specialist",
       "location": "Springfield, Virginia",
       "url": "https://www.usajobs.gov/job/878787500",
       "date_posted": "2026-07-31",
       "salary": "Starting at $102,415 Per year (SV H-I)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Office of the Secretary of Transportation",
-      "title": "Environmental Protection Specialist - DIRECT HIRE",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/878709100",
-      "date_posted": "2026-07-31",
-      "salary": "Starting at $121,785 Per year (GS 13-14)",
       "ats": "USAJOBS"
     },
     {
@@ -85,15 +67,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "New London County, Connecticut",
-      "url": "https://www.usajobs.gov/job/879914700",
-      "date_posted": "2026-08-10",
-      "salary": "Starting at $69,642 Per year (GS 9)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
