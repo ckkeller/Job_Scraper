@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 17:17 UTC",
-  "total": 11,
-  "new_count": 4,
+  "scraped_at": "2026-08-11 17:24 UTC",
+  "total": 9,
+  "new_count": 1,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -58,15 +58,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Riverside",
-      "title": "Environmental Health Specialist I, II, III",
-      "location": "Throughout Riverside County",
-      "url": "https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii",
-      "date_posted": "",
-      "salary": "$63,544.00 - $112,028.80 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "West Basin Municipal Water District",
       "title": "Water Quality & Environmental Compliance Supervisor",
       "location": "Carson, CA",
@@ -85,59 +76,23 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Vista",
-      "title": "Environmental Specialist I/II",
-      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
-      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$75,183.16 - $100,752.86 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Brevard County Board of County Commissioners",
-      "title": "Associate Environmental Specialist (23394)",
-      "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$68,286.40 - $82,992.00 Annually",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "1701 N. Lombard Street Suite 200 - Oxnard, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441316-0/environmental-scientist",
+      "company": "County of Mendocino",
+      "title": "Hazardous Materials Operations Specialist",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5430178-0/hazardous-materials-operations-specialist",
       "date_posted": "",
-      "salary": "$99,863.00 - $121,392.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of Fresno",
-      "title": "ENVIRONMENTAL HEALTH SPECIALIST I/II",
-      "location": "Fresno County, CA",
-      "url": "https://www.governmentjobs.com/jobs/5435988-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "West Basin Municipal Water District",
-      "title": "Water Quality & Environmental Compliance Supervisor",
-      "location": "Carson, CA",
-      "url": "https://www.governmentjobs.com/jobs/5422948-0/water-quality-environmental-compliance-supervisor",
-      "date_posted": "",
-      "salary": "$138,534.00 - $190,484.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Brevard County Board of County Commissioners",
-      "title": "Associate Environmental Specialist (23394)",
-      "location": "Melbourne, FL",
-      "url": "https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$68,286.40 - $82,992.00 Annually",
       "ats": "NEOGOV"
     }
   ]
