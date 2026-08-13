@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12 23:26 UTC",
-  "total": 65,
+  "scraped_at": "2026-08-13 00:46 UTC",
+  "total": 66,
   "new_count": 1,
   "jobs": [
     {
@@ -284,6 +284,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Winter Garden, Florida, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
+      "date_posted": "2026-08-12T20:05:32.050Z",
+      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
+      "salary": "$68k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "United Water Conservation District",
       "title": "Environmental Scientist",
       "location": "Oxnard, California, United States",
@@ -477,20 +491,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Irvine, California, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001212533006",
-      "date_posted": "2026-07-20T16:25:42.670Z",
-      "description": "Bachelor's in environmental science or core science,4+ years related experience,knowledge of RCRA and state hazardous waste regulations,strong communication and organizational skills,ability to travel and perform fieldwork.",
-      "salary": "$90k–$100k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -858,6 +858,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Boise or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -916,17 +930,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Integral Consulting Inc.",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414585",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414585",
-      "date_posted": "2026-08-12T18:09:27.000Z",
-      "description": "Master's or doctoral degree in toxicology, pharmacology, or public health with toxicology focus; 1+ year in human health risk assessment and toxicology; strong scientific, communication, organizational, and teamwork skills.",
-      "salary": "$65k–$115k/yr",
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Boise or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
   ]
