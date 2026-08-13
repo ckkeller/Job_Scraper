@@ -1,18 +1,24 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-13 03:19 UTC*
+*Last updated: 2026-08-13 05:28 UTC*
 
-**2 new role(s)** since last run · 66 total in last 30d
+**3 new role(s)** since last run · 67 total in last 30d
 
-### [Toxicologist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4393003) — Integral Consulting Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $65k–$115k/yr
-- **Work mode:** Telecommute eligible
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838758) — Environmental Research Group
+- 📍 **Location:** Denver or United States
+- 💰 **Salary:** $80k–$90k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-06T17:54:48.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
 
-### [Toxicologist (4947)](https://career8.successfactors.com/career?career_ns=job_listing&company=mphi&career_job_req_id=4947) — MPHI
-- 📍 **Location:** Lansing, Michigan, United States
-- 💰 **Salary:** $58k–$93k/yr
-- **Work mode:** Telecommute eligible
+### [INTERNAL POSTING: Risk Assessment & Compliance Coordinator](https://www.governmentjobs.com/careers/sarpycountyne/jobs/5446605) — Sarpy County
+- 📍 **Location:** Papillion, Nebraska, United States
+- 💰 **Salary:** $82k–$99k/yr
+- **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-12T17:24:16.000Z
+- 🕒 **Posted:** 2026-08-12T23:41:14.000Z
+
+### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124464) — Wsc
+- 📍 **Location:** Des Moines, Iowa, United States
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
