@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 17:22 UTC",
-  "total": 10,
-  "new_count": 2,
+  "scraped_at": "2026-08-13 17:23 UTC",
+  "total": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "United Water Conservation District",
@@ -67,6 +67,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
+      "date_posted": "",
+      "salary": "$117,094.95 - $166,105.90 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "County of Mendocino",
       "title": "Hazardous Materials Operations Specialist",
       "location": "Ukiah, CA",
@@ -96,21 +105,12 @@
   ],
   "new_jobs": [
     {
-      "company": "City of Vista",
-      "title": "Environmental Specialist I/II",
-      "location": "Vista City Hall - 200 Civic Center Drive Vista 92084, CA",
-      "url": "https://www.governmentjobs.com/jobs/5366037-0/environmental-specialist-i-ii",
+      "company": "South Coast Air Quality Management District",
+      "title": "Principal Air Quality Chemist",
+      "location": "Diamond Bar, CA",
+      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
       "date_posted": "",
-      "salary": "$75,183.16 - $100,752.86 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Specialist II/III (Limited Term)",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
-      "date_posted": "",
-      "salary": "$83,137.60 - $124,009.60 Annually",
+      "salary": "$117,094.95 - $166,105.90 Annually",
       "ats": "NEOGOV"
     }
   ]
