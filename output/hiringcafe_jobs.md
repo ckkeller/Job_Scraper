@@ -1,10 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-14 22:08 UTC*
+*Last updated: 2026-08-14 23:08 UTC*
 
-**1 new role(s)** since last run · 69 total in last 30d
+**1 new role(s)** since last run · 65 total in last 30d
 
-### [Environmental Scientist](https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1) — Kimley-Horn
-- 📍 **Location:** Jupiter, Florida, United States
+### [Staff Environmental Scientist](https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009) — Langan Engineering & Environmental Services
+- 📍 **Location:** Parsippany, New Jersey, United States
+- 💰 **Salary:** $68k–$93k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-14T04:00:00.000Z
+- 🕒 **Posted:** 2026-08-14T18:58:27.000Z
