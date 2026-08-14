@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 21:11 UTC",
+  "scraped_at": "2026-08-14 22:08 UTC",
   "total": 69,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -60,20 +60,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MPHI",
       "title": "Toxicologist (4947)",
       "location": "Lansing, Michigan, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -244,11 +244,11 @@
     {
       "company": "Environmental Research Group",
       "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -263,6 +263,20 @@
       "direct_url": "https://careers-dewberry.icims.com/jobs/16089/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
       "date_posted": "2026-08-03T17:08:00.000Z",
       "description": "B.S. in environmental or related field, 5+ years environmental experience, fieldwork, permitting, wetland delineation, species assessments, proficiency with ArcMap/GIS and AutoCAD/MicroStation, Microsoft Office.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -326,20 +340,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hudbay",
-      "title": "Environmental Scientist",
-      "location": "Helvetia or Sahuarita",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
-      "date_posted": "2026-07-28T23:21:00.000Z",
-      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Apex Companies",
       "title": "Environmental Scientist ",
       "location": "Rockville or North America",
@@ -348,6 +348,20 @@
       "date_posted": "2026-08-05T19:03:36.000Z",
       "description": "Bachelor's degree in environmental science, geology, or related science; 0–2 years of environmental field experience; technical reporting, Microsoft 365, driver's license, reliable transportation, and field sampling skills.",
       "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Hudbay",
+      "title": "Environmental Scientist",
+      "location": "Helvetia or Sahuarita",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=75035fc6-bd6d-4aae-bbc2-5ec6ab98eb64&ccId=19000101_000001&jobId=578087&lang=en_US",
+      "date_posted": "2026-07-28T23:21:00.000Z",
+      "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -600,20 +614,6 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Bachelor's degree in a relevant field, 5+ years for the senior level, valid Arizona driver's license, environmental compliance expertise, reporting, audits, permitting, and regulatory agency coordination.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Atlas Technical Consultants",
-      "title": "Environmental Scientist 1",
-      "location": "Bellingham, Washington, United States",
-      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
-      "date_posted": "2026-08-10T03:00:00.000Z",
-      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
-      "salary": "$62k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -874,11 +874,11 @@
     {
       "company": "Environmental Research Group",
       "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "location": "Boise or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838763",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
       "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
       "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -897,6 +897,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Atlas Technical Consultants",
+      "title": "Environmental Scientist 1",
+      "location": "Bellingham, Washington, United States",
+      "url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "direct_url": "https://celabs.hrmdirect.com/employment/job-opening.php?req=3784004&req_loc=1430649",
+      "date_posted": "2026-08-10T03:00:00.000Z",
+      "description": "Bachelor’s degree in a related environmental field, 0–5 years of experience, fieldwork ability, technical reporting skills, driver’s license, and proficiency with MS Excel, Bluebeam, and GIS.",
+      "salary": "$62k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -954,21 +968,22 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "CDR Companies",
-      "title": "Environmental Scientist II - Williamsport",
-      "location": "State College, Pennsylvania, United States",
-      "url": "https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "direct_url": "https://jobs.workable.com/view/gdKMuzfgJfYMXC59oMoWLp/environmental-scientist-ii---williamsport-in-state-college-at-cdr-companies",
-      "date_posted": "2026-08-12T13:42:22.823Z",
-      "description": "Requires 5+ years of environmental experience, a B.S. in environmental science, ecology, biology, or related field, wetland delineation, permitting, GPS, regulatory, technical writing, and driving experience.",
+      "company": "Kimley-Horn",
+      "title": "Environmental Scientist",
+      "location": "Jupiter, Florida, United States",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "direct_url": "https://careers-kimley-horn.icims.com/jobs/25827/environmental-scientist/job?in_iframe=1",
+      "date_posted": "2026-08-14T04:00:00.000Z",
+      "description": "6+ years of environmental experience, wetland and species permitting knowledge, ecological fieldwork, technical report writing, and a degree in environmental science or a related field. ArcGIS knowledge is desired.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
