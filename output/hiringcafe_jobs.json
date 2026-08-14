@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 00:45 UTC",
-  "total": 67,
-  "new_count": 3,
+  "scraped_at": "2026-08-14 03:16 UTC",
+  "total": 66,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -60,17 +60,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Yagroup",
-      "title": "Senior Toxicologist",
-      "location": "United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
-      "date_posted": "2026-07-15T04:00:00.000Z",
-      "description": "DABT required, 10+ years toxicology experience with litigation support, strong technical writing and communication, experience evaluating laboratory and exposure data, and degree in toxicology or related field (or equivalent experience).",
-      "salary": "",
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -88,6 +88,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Yagroup",
+      "title": "Senior Toxicologist",
+      "location": "United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/yagroup/candidateportal/jobs/1286",
+      "date_posted": "2026-07-15T04:00:00.000Z",
+      "description": "DABT required, 10+ years toxicology experience with litigation support, strong technical writing and communication, experience evaluating laboratory and exposure data, and degree in toxicology or related field (or equivalent experience).",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Altria Client Services, LLC.",
       "title": "Principal Toxicologist",
       "location": "Richmond, Virginia, United States",
@@ -99,20 +113,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -348,20 +348,6 @@
       "date_posted": "2026-07-16T00:00:00.000Z",
       "description": "Bachelors in environmental or related field, 4+ years environmental consulting/regulatory experience, wetland/stream delineation experience, permit preparation knowledge, WPIT or PWS or ability to obtain, strong communication skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bechtel",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://bechtel.jobs.hr.cloud.sap/job/Environmental-Scientist/1384326000/",
-      "direct_url": "https://bechtel.jobs.hr.cloud.sap/job/Environmental-Scientist/1384326000/",
-      "date_posted": "2026-08-12T07:00:00.000Z",
-      "description": "Bachelor’s degree in environmental sciences, field biology, or natural resources and 5–8 years relevant experience, or 9–12 years work experience; environmental assessments, sampling, monitoring, valid driver’s license.",
-      "salary": "$91k–$139k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -788,6 +774,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "SWCA Environmental Consultants",
+      "title": "Assistant Project Water Resources Scientist – Water Quality",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-swca.icims.com/jobs/15666/assistant-project-water-resources-scientist-%e2%80%93-water-quality/job?in_iframe=1",
+      "direct_url": "https://careers-swca.icims.com/jobs/15666/assistant-project-water-resources-scientist-%e2%80%93-water-quality/job?in_iframe=1",
+      "date_posted": "2026-08-13T04:00:00.000Z",
+      "description": "Bachelor’s degree in a related field with GIS emphasis or GIS certificate, 1+ year GIS analyst experience, planning project experience, complex datasets, ArcGIS Online, and strong communication skills.",
+      "salary": "$57k–$78k/yr",
+      "job_type": "Temporary",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CK Associates",
       "title": "Environmental Scientist/Water Quality Specialist",
       "location": "Baton Rouge, Louisiana, United States",
@@ -827,20 +827,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Boise or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838763",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, and ability to obtain clearances and a passport.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -944,45 +930,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Enhesa",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "date_posted": "2026-08-13T16:55:41.000Z",
-      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
-      "salary": "$90k–$115k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
-      "job_type": "Full Time",
+      "company": "SWCA Environmental Consultants",
+      "title": "Assistant Project Water Resources Scientist – Water Quality",
+      "location": "Salt Lake City, Utah, United States",
+      "url": "https://careers-swca.icims.com/jobs/15666/assistant-project-water-resources-scientist-%e2%80%93-water-quality/job?in_iframe=1",
+      "direct_url": "https://careers-swca.icims.com/jobs/15666/assistant-project-water-resources-scientist-%e2%80%93-water-quality/job?in_iframe=1",
+      "date_posted": "2026-08-13T04:00:00.000Z",
+      "description": "Bachelor’s degree in a related field with GIS emphasis or GIS certificate, 1+ year GIS analyst experience, planning project experience, complex datasets, ArcGIS Online, and strong communication skills.",
+      "salary": "$57k–$78k/yr",
+      "job_type": "Temporary",
       "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Bechtel",
-      "title": "Environmental Scientist",
-      "location": "United States",
-      "url": "https://bechtel.jobs.hr.cloud.sap/job/Environmental-Scientist/1384326000/",
-      "direct_url": "https://bechtel.jobs.hr.cloud.sap/job/Environmental-Scientist/1384326000/",
-      "date_posted": "2026-08-12T07:00:00.000Z",
-      "description": "Bachelor’s degree in environmental sciences, field biology, or natural resources and 5–8 years relevant experience, or 9–12 years work experience; environmental assessments, sampling, monitoring, valid driver’s license.",
-      "salary": "$91k–$139k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
