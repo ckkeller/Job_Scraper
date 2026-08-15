@@ -1,6 +1,10 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-15 00:02 UTC*
+*Last updated: 2026-08-15 02:05 UTC*
 
-**0 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 3 total in last 24h
 
-No new roles since the last run.
+### [Security Officer Full Time Unarmed Patrol Risk Assessment](https://www.indeed.com/viewjob?jk=cde3aed90fc12f96) — Allied Universal
+- 📍 **Location:** Los Angeles, CA, US
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-08-14
