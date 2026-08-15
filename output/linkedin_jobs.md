@@ -1,12 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-15 01:58 UTC*
+*Last updated: 2026-08-15 03:13 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Sr. Scientist II - Toxicology - Onsite in Aliso Viejo, CA](https://www.linkedin.com/jobs/view/4451273566/) — Glaukos Corporation
-- 📍 **Location:** Aliso Viejo, CA
-- 🕒 **Posted:** 2026-08-15
-
-### [Supervising Environmental Health Specialist](https://www.linkedin.com/jobs/view/4454834577/) — County of Sonoma
-- 📍 **Location:** Santa Rosa, CA
-- 🕒 **Posted:** 2026-08-15
+No new roles since the last run.
