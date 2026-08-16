@@ -1,6 +1,11 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-16 04:22 UTC*
+*Last updated: 2026-08-16 17:08 UTC*
 
-**0 new role(s)** since last run · 71 total in last 30d
+**1 new role(s)** since last run · 72 total in last 30d
 
-No new roles since the last run.
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
