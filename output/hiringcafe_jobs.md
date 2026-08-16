@@ -1,6 +1,18 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-16 00:01 UTC*
+*Last updated: 2026-08-16 02:12 UTC*
 
-**0 new role(s)** since last run · 71 total in last 30d
+**2 new role(s)** since last run · 70 total in last 30d
 
-No new roles since the last run.
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
+
+### [Environmental Scientist 1](https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533) — South Dakota State Government
+- 📍 **Location:** Pierre, South Dakota, United States
+- 💰 **Salary:** $56k–$63k/yr
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-15T16:21:14.000Z
