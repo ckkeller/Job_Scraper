@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 22:09 UTC",
-  "total": 70,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 23:08 UTC",
+  "total": 71,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -116,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
-      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
-      "salary": "$72k–$113k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Procter & Gamble",
       "title": "Senior Veterinary Toxicologist – Product Safety",
       "location": "Cincinnati, Ohio, United States",
@@ -141,6 +127,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
+      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
+      "salary": "$72k–$113k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -858,6 +858,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Utah Department of Environmental Quality",
       "title": "Environmental Scientist I-III",
       "location": "Salt Lake City, Utah, United States",
@@ -984,5 +998,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
