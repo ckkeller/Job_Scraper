@@ -1,7 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-16 16:47 UTC*
+*Last updated: 2026-08-17 16:54 UTC*
 
-**1 new role(s)** since last run · 12 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 8 total in recent GovernmentJobs postings
 
-### [Associate Environmental Specialist (23394)](https://www.governmentjobs.com/jobs/147706-1/associate-environmental-specialist-23394) — Brevard County Board of County Commissioners
-- 📍 **Location:** Melbourne, FL
+### [Environmental Health Specialist I, II, III](https://www.governmentjobs.com/jobs/5428457-0/environmental-health-specialist-i-ii-iii) — County of Riverside
+- 📍 **Location:** Throughout Riverside County
+- 💰 **Salary:** $63,544.00 - $112,028.80 Annually
