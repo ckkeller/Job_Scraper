@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-17 15:46 UTC*
+*Last updated: 2026-08-17 16:53 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
