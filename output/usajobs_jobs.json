@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-08-17 15:54 UTC",
+  "scraped_at": "2026-08-18 15:59 UTC",
   "total": 8,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "U.S. Coast Guard",
+      "title": "Environmental Protection Specialist",
+      "location": "Boston, Massachusetts",
+      "url": "https://www.usajobs.gov/job/880971300",
+      "date_posted": "2026-08-18",
+      "salary": "Starting at $69,905 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
     {
       "company": "Bureau of Engraving and Printing",
       "title": "Environmental Protection Specialist",
@@ -40,15 +49,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "Warrenton, Oregon",
-      "url": "https://www.usajobs.gov/job/879804900",
-      "date_posted": "2026-08-07",
-      "salary": "Starting at $61,722 Per year (GS 9)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Commander, Navy Installations Command",
       "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
       "location": "Fort Worth, Texas",
@@ -76,5 +76,15 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "U.S. Coast Guard",
+      "title": "Environmental Protection Specialist",
+      "location": "Boston, Massachusetts",
+      "url": "https://www.usajobs.gov/job/880971300",
+      "date_posted": "2026-08-18",
+      "salary": "Starting at $69,905 Per year (GS 9)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
