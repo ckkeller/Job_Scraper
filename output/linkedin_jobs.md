@@ -1,13 +1,6 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-17 23:45 UTC*
+*Last updated: 2026-08-18 01:59 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [AIR POLLUTION SPECIALIST](https://www.linkedin.com/jobs/view/4455509351/) — California Air Resources Board
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $5,918.00/mo - $11,455.00/mo
-- 🕒 **Posted:** 2026-08-17
-
-### [Senior Environmental Scientist (Specialist)](https://www.linkedin.com/jobs/view/4454452139/) — Office of Energy Infrastructure Safety
-- 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-08-17
+No new roles since the last run.
