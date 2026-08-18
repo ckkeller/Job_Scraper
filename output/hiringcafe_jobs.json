@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 21:09 UTC",
-  "total": 70,
-  "new_count": 0,
+  "scraped_at": "2026-08-18 22:03 UTC",
+  "total": 72,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -12,6 +12,20 @@
       "date_posted": "2026-07-31T00:00:00.000Z",
       "description": "Board-certified toxicologist with expertise in urine and oral fluid drug-test interpretation, expert testimony experience, strong communication, and training ability.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Enhesa",
+      "title": "Toxicologist",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "date_posted": "2026-08-13T16:55:41.000Z",
+      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
+      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
@@ -46,17 +60,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Enhesa",
-      "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "date_posted": "2026-08-13T16:55:41.000Z",
-      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
-      "salary": "$90k–$115k/yr",
+      "company": "Department of Pesticide Regulation",
+      "title": "Associate Toxicologist",
+      "location": "Sacramento County, California, United States",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
+      "date_posted": "2026-07-24T12:00:00.000Z",
+      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
+      "salary": "$83k–$118k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -85,20 +99,6 @@
       "job_type": "Full Time",
       "is_remote": true,
       "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Department of Pesticide Regulation",
-      "title": "Associate Toxicologist",
-      "location": "Sacramento County, California, United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "direct_url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525902",
-      "date_posted": "2026-07-24T12:00:00.000Z",
-      "description": "Conduct human health risk assessments using toxicology and exposure data, perform dose–response and exposure evaluations, critically review scientific literature, and communicate technical findings.",
-      "salary": "$83k–$118k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -141,6 +141,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Barr",
+      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
+      "location": "Seattle or Denver",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
+      "salary": "$95k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -550,20 +564,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "South Dakota State Government",
-      "title": "Environmental Scientist 1",
-      "location": "Pierre, South Dakota, United States",
-      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
-      "date_posted": "2026-08-15T16:21:14.000Z",
-      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
-      "salary": "$56k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HDR",
       "title": "Environmental Scientist 2",
       "location": "Bellevue, Washington, United States",
@@ -572,6 +572,20 @@
       "date_posted": "2026-07-20T21:00:46.869Z",
       "description": "Bachelor's in Environmental Science, 5+ years technical/field experience preparing environmental documents, strong writing, communication, MS Office proficiency, and ability to work independently and on teams.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "South Dakota State Government",
+      "title": "Environmental Scientist 1",
+      "location": "Pierre, South Dakota, United States",
+      "url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "direct_url": "https://statesdgovt.hireclick.com/jb/environmental-scientist-1/view/259533",
+      "date_posted": "2026-08-15T16:21:14.000Z",
+      "description": "Bachelor's degree in geology or a related environmental or physical science field; valid driver's license; scientific analysis, GIS, Microsoft Office, communication, and environmental law skills required.",
+      "salary": "$56k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -754,6 +768,20 @@
       "date_posted": "2026-07-30T00:00:00.000Z",
       "description": "Bachelor's degree in a related science,4+ years consulting experience (4–7 preferred),ability to manage technical projects in toxicology/exposure,travel up to 15%,and ability to work independently in office and field.",
       "salary": "$95k–$120k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bayer",
+      "title": "Principle Scientist - Regulatory Toxicology",
+      "location": "Chesterfield, Missouri, United States",
+      "url": "https://talent.bayer.com/careers/job/562949978354135",
+      "direct_url": "https://talent.bayer.com/careers/job/562949978354135",
+      "date_posted": "2026-08-18T16:28:47.000Z",
+      "description": "MS in toxicology, environmental health, exposure science, pharmacology, chemistry, biomedical science, or related field; agrochemical regulatory toxicology experience, strong data science, communication, organization, and strategic leadership skills.",
+      "salary": "$115k–$170k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -984,5 +1012,34 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Barr",
+      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
+      "location": "Seattle or Denver",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
+      "salary": "$95k–$115k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bayer",
+      "title": "Principle Scientist - Regulatory Toxicology",
+      "location": "Chesterfield, Missouri, United States",
+      "url": "https://talent.bayer.com/careers/job/562949978354135",
+      "direct_url": "https://talent.bayer.com/careers/job/562949978354135",
+      "date_posted": "2026-08-18T16:28:47.000Z",
+      "description": "MS in toxicology, environmental health, exposure science, pharmacology, chemistry, biomedical science, or related field; agrochemical regulatory toxicology experience, strong data science, communication, organization, and strategic leadership skills.",
+      "salary": "$115k–$170k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
