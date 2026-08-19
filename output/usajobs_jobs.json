@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-18 15:59 UTC",
+  "scraped_at": "2026-08-19 16:00 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "U.S. Coast Guard",
@@ -76,15 +76,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "U.S. Coast Guard",
-      "title": "Environmental Protection Specialist",
-      "location": "Boston, Massachusetts",
-      "url": "https://www.usajobs.gov/job/880971300",
-      "date_posted": "2026-08-18",
-      "salary": "Starting at $69,905 Per year (GS 9)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
