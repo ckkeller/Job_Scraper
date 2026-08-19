@@ -1,6 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-19 18:02 UTC*
+*Last updated: 2026-08-19 19:12 UTC*
 
-**0 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [2026-2027 Jr. Specialist - Environmental Science & Policy](https://www.indeed.com/viewjob?jk=ec9d1b6124989826) — UC Davis
+- 📍 **Location:** Lower Lake, CA, US
+- 💰 **Salary:** $27–$29/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-08-01
