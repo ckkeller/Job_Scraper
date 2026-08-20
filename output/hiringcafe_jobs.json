@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20 00:24 UTC",
-  "total": 74,
+  "scraped_at": "2026-08-20 02:08 UTC",
+  "total": 75,
   "new_count": 1,
   "jobs": [
     {
@@ -74,20 +74,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Inotivco",
-      "title": "Toxicologist II",
-      "location": "Gaithersburg, Maryland, United States",
-      "url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/Gaithersburg-MD/Toxicologist-II_JR101715",
-      "direct_url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/Gaithersburg-MD/Toxicologist-II_JR101715",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "M.S. or Ph.D. in toxicology or related field with 7 or 3 years of experience, respectively; D.A.B.T. preferred. Requires computer proficiency, communication skills, independent work, multitasking, and regulatory knowledge.",
-      "salary": "$80k–$106k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "MPHI",
       "title": "Toxicologist (4947)",
       "location": "Lansing, Michigan, United States",
@@ -99,6 +85,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Inotivco",
+      "title": "Toxicologist II",
+      "location": "Gaithersburg, Maryland, United States",
+      "url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/Gaithersburg-MD/Toxicologist-II_JR101715",
+      "direct_url": "https://inotivco.wd5.myworkdayjobs.com/ext/job/Gaithersburg-MD/Toxicologist-II_JR101715",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "M.S. or Ph.D. in toxicology or related field with 7 or 3 years of experience, respectively; D.A.B.T. preferred. Requires computer proficiency, communication skills, independent work, multitasking, and regulatory knowledge.",
+      "salary": "$80k–$106k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -116,17 +116,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
-      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
-      "salary": "$72k–$113k/yr",
+      "company": "Synensys LLC",
+      "title": "Biocompatibility Regulatory Toxicologist",
+      "location": "Peachtree City, Georgia, United States",
+      "url": "https://apply.appone.com/job/6a8646c1c453b3a3943aef30",
+      "direct_url": "https://apply.appone.com/job/6a8646c1c453b3a3943aef30",
+      "date_posted": "2026-08-20T00:13:53.000Z",
+      "description": "Advanced scientific degree and relevant experience required: 8+ years with a bachelor's, 5+ with a master's, or 2+ with a Ph.D. Requires ISO 10993, medical-device toxicology, FDA, and international regulatory knowledge.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -141,6 +141,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
+      "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
+      "location": "Baltimore, Maryland, United States",
+      "url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "direct_url": "https://www.jobapscloud.com/MD/sup/bulpreview.asp?b=&R1=26&R2=002330&R3=0001",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Master's or Ph.D. in chemistry, toxicology, pharmacology, or another appropriate science, or bachelor's degree in these fields plus two years of forensic toxicology experience.",
+      "salary": "$72k–$113k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -970,20 +984,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kentucky Energy & Environment Cabinet",
-      "title": "Environmental Scientist II",
-      "location": "Frankfort, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in natural, biological, or physical science and one year of related experience. Requires environmental permitting, water assessment, GIS, regulatory, communication, and project management skills.",
-      "salary": "$47k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Salt River Project",
       "title": "Senior Environmental Scientist",
       "location": "Casa Grande, Arizona, United States",
@@ -998,14 +998,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Johnson, Mirmiran & Thompson, Inc.",
-      "title": "Senior Environmental Scientist",
-      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
-      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
-      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
-      "date_posted": "2026-08-12T19:19:39.203Z",
-      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
-      "salary": "",
+      "company": "Kentucky Energy & Environment Cabinet",
+      "title": "Environmental Scientist II",
+      "location": "Frankfort, Kentucky, United States",
+      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
+      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree in natural, biological, or physical science and one year of related experience. Requires environmental permitting, water assessment, GIS, regulatory, communication, and project management skills.",
+      "salary": "$47k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -1019,6 +1019,20 @@
       "direct_url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
       "date_posted": "2026-08-13T00:00:00.000Z",
       "description": "Bachelor’s degree in environmental science, engineering, or related field or equivalent experience; 0–2 years relevant experience; fieldwork, data collection, reporting, communication, and organizational skills required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Johnson, Mirmiran & Thompson, Inc.",
+      "title": "Senior Environmental Scientist",
+      "location": "Jacksonville or South Carolina or Georgia or Alabama or Florida or North America",
+      "url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "direct_url": "https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true",
+      "date_posted": "2026-08-12T19:19:39.203Z",
+      "description": "Requires environmental consulting experience, natural resource investigations, permitting, regulatory coordination, technical reporting, field data collection, Microsoft 365, and ArcGIS proficiency; Florida experience preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1042,17 +1056,17 @@
   ],
   "new_jobs": [
     {
-      "company": "Environmental Research Group",
-      "title": "Environmental Scientist",
-      "location": "Denver or United States",
-      "url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
-      "date_posted": "2026-08-07T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
-      "salary": "$80k–$90k/yr",
+      "company": "Synensys LLC",
+      "title": "Biocompatibility Regulatory Toxicologist",
+      "location": "Peachtree City, Georgia, United States",
+      "url": "https://apply.appone.com/job/6a8646c1c453b3a3943aef30",
+      "direct_url": "https://apply.appone.com/job/6a8646c1c453b3a3943aef30",
+      "date_posted": "2026-08-20T00:13:53.000Z",
+      "description": "Advanced scientific degree and relevant experience required: 8+ years with a bachelor's, 5+ with a master's, or 2+ with a Ph.D. Requires ISO 10993, medical-device toxicology, FDA, and international regulatory knowledge.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     }
   ]
