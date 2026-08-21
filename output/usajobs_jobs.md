@@ -1,14 +1,19 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-08-20 16:02 UTC*
+*Last updated: 2026-08-21 16:01 UTC*
 
-**2 new role(s)** since last run · 8 total in current USAJOBS postings
+**3 new role(s)** since last run · 10 total in current USAJOBS postings
 
-### [Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/881345300) — Air Force Materiel Command
-- 📍 **Location:** Kelly AFB, Texas
-- 💰 **Salary:** Starting at $76,463 Per year (NH 3)
-- 🕒 **Posted:** 2026-08-19
+### [Environmental Protection Specialist](https://www.usajobs.gov/job/881616800) — U.S. Coast Guard
+- 📍 **Location:** New London County, Connecticut
+- 💰 **Salary:** Starting at $69,642 Per year (GS 9)
+- 🕒 **Posted:** 2026-08-21
 
-### [Public Notice - Environmental Protection (Direct Hire)](https://www.usajobs.gov/job/881127000) — John C. Stennis Space Center
-- 📍 **Location:** Stennis Space Center, Mississippi
-- 💰 **Salary:** Starting at $74,678 Per year (GS 11-14)
-- 🕒 **Posted:** 2026-08-20
+### [ENVIRONMENTAL PROTECTION SPECIALIST](https://www.usajobs.gov/job/881433100) — U.S. Marine Corps
+- 📍 **Location:** Twentynine Palms, California
+- 💰 **Salary:** Starting at $71,957 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-08-21
+
+### [ENVIRONMENTAL PROTECTION SPECIALIST](https://www.usajobs.gov/job/881455200) — U.S. Marine Corps
+- 📍 **Location:** Twentynine Palms, California
+- 💰 **Salary:** Starting at $71,957 Per year (GS 9-11)
+- 🕒 **Posted:** 2026-08-21

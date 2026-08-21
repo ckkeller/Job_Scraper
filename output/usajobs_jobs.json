@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 16:02 UTC",
-  "total": 8,
-  "new_count": 2,
+  "scraped_at": "2026-08-21 16:01 UTC",
+  "total": 10,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -10,6 +10,33 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $76,463 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Coast Guard",
+      "title": "Environmental Protection Specialist",
+      "location": "New London County, Connecticut",
+      "url": "https://www.usajobs.gov/job/881616800",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $69,642 Per year (GS 9)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Marine Corps",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Twentynine Palms, California",
+      "url": "https://www.usajobs.gov/job/881433100",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Marine Corps",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Twentynine Palms, California",
+      "url": "https://www.usajobs.gov/job/881455200",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
       "ats": "USAJOBS"
     },
     {
@@ -58,15 +85,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "United States Army Installation Management Command",
-      "title": "Supervisory Environmental Protection Specialist",
-      "location": "Wheeler Army Airfield, Hawaii",
-      "url": "https://www.usajobs.gov/job/879486300",
-      "date_posted": "2026-08-06",
-      "salary": "Starting at $111,119 Per year (GS 13)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "Air Force Materiel Command",
       "title": "Subject Matter Specialist (Air Quality) - DIRECT HIRE AUTHORITY",
       "location": "Kelly AFB, Texas",
@@ -78,21 +96,30 @@
   ],
   "new_jobs": [
     {
-      "company": "Air Force Materiel Command",
-      "title": "Risk Assessor/Toxicologist Interdisciplinary (Environmental) - DIRECT HIRE AUTHORITY",
-      "location": "Kelly AFB, Texas",
-      "url": "https://www.usajobs.gov/job/881345300",
-      "date_posted": "2026-08-19",
-      "salary": "Starting at $76,463 Per year (NH 3)",
+      "company": "U.S. Coast Guard",
+      "title": "Environmental Protection Specialist",
+      "location": "New London County, Connecticut",
+      "url": "https://www.usajobs.gov/job/881616800",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $69,642 Per year (GS 9)",
       "ats": "USAJOBS"
     },
     {
-      "company": "John C. Stennis Space Center",
-      "title": "Public Notice - Environmental Protection (Direct Hire)",
-      "location": "Stennis Space Center, Mississippi",
-      "url": "https://www.usajobs.gov/job/881127000",
-      "date_posted": "2026-08-20",
-      "salary": "Starting at $74,678 Per year (GS 11-14)",
+      "company": "U.S. Marine Corps",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Twentynine Palms, California",
+      "url": "https://www.usajobs.gov/job/881433100",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Marine Corps",
+      "title": "ENVIRONMENTAL PROTECTION SPECIALIST",
+      "location": "Twentynine Palms, California",
+      "url": "https://www.usajobs.gov/job/881455200",
+      "date_posted": "2026-08-21",
+      "salary": "Starting at $71,957 Per year (GS 9-11)",
       "ats": "USAJOBS"
     }
   ]
