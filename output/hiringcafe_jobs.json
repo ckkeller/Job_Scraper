@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 00:24 UTC",
-  "total": 71,
-  "new_count": 1,
+  "scraped_at": "2026-08-22 02:06 UTC",
+  "total": 72,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -116,6 +116,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Amgen",
+      "title": "Scientific Associate Director - Project Toxicologist",
+      "location": "United States or Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
+      "salary": "$194k–$263k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Procter & Gamble",
       "title": "Senior Veterinary Toxicologist – Product Safety",
       "location": "Cincinnati, Ohio, United States",
@@ -124,20 +138,6 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "DVM, VMD, or equivalent required, with veterinary toxicology, animal health, product safety, pharmaceutical, consumer product, or related scientific experience. Toxicology and risk assessment expertise required.",
       "salary": "$144k–$219k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Barr",
-      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
-      "location": "Seattle or Denver",
-      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
-      "salary": "$95k–$115k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
@@ -158,17 +158,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amgen",
-      "title": "Scientific Associate Director - Project Toxicologist",
-      "location": "United States or Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
-      "salary": "$194k–$263k/yr",
+      "company": "Barr",
+      "title": "Environmental Toxicologist – Senior Level (Hybrid)",
+      "location": "Seattle or Denver",
+      "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "direct_url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Seattle-WA/Senior-Environmental-Toxicologist_R-102262",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Master’s degree in a related environmental field, 8+ years of relevant experience, advanced toxicology knowledge, Microsoft Office Suite proficiency, valid driver’s license, and unrestricted US work authorization.",
+      "salary": "$95k–$115k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -242,6 +242,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "APTIM",
+      "title": "Environmental Scientist",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "date_posted": "2026-08-21T16:46:28.016Z",
+      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
+      "salary": "$73k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -256,14 +270,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
+      "company": "United Water Conservation District",
       "title": "Environmental Scientist",
-      "location": "Winter Garden, Florida, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "date_posted": "2026-08-12T20:05:32.050Z",
-      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
-      "salary": "$68k–$73k/yr",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -284,20 +298,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Hudbay",
       "title": "Environmental Scientist",
       "location": "Helvetia or Sahuarita",
@@ -306,6 +306,20 @@
       "date_posted": "2026-07-28T23:21:00.000Z",
       "description": "BSc in environmental science or related, 2+ years environmental field experience preferred, advanced Microsoft Excel and MS Office, ArcGIS Pro a plus, valid driver's license, strong communication skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -337,20 +351,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -480,20 +480,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
-      "salary": "$73k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calista Brice",
       "title": "Environmental Scientist II",
       "location": "Anchorage or Fairbanks or Salt Lake City or Grand Junction",
@@ -502,6 +488,20 @@
       "date_posted": "2026-08-17T00:00:00.000Z",
       "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulations knowledge, driver's license, and ability to pass drug and background screening.",
       "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
+      "salary": "$73k–$82k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -704,6 +704,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Aureon",
+      "title": "Facilities Inventory & Risk Assessment Specialist",
+      "location": "West Des Moines or Iowa",
+      "url": "https://recruiting2.ultipro.com/aur1004aurn/JobBoard/5581066a-62fb-4681-9f46-2482deb01adc/OpportunityDetail?opportunityId=3a20f7a8-0ad4-4731-8625-4671432f7a9c",
+      "direct_url": "https://recruiting2.ultipro.com/aur1004aurn/JobBoard/5581066a-62fb-4681-9f46-2482deb01adc/OpportunityDetail?opportunityId=3a20f7a8-0ad4-4731-8625-4671432f7a9c",
+      "date_posted": "2026-08-21T19:02:47.224Z",
+      "description": "Requires 3+ years of inventory, warehouse, or supply chain experience, high school diploma, valid driver's license with acceptable MVR, travel throughout Iowa, and strong organizational, analytical, documentation, and communication skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Lincoln Financial",
       "title": "Specialist, IT and Cyber Risk Assessment",
       "location": "Radnor or Charlotte or Fort Wayne or Greensboro or United States",
@@ -847,6 +861,20 @@
       "company": "Salt Lake County",
       "title": "Water Quality Environmental Health Supervisor - Health Department",
       "location": "Murray, Utah, United States",
+      "url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
+      "direct_url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
+      "date_posted": "2026-08-21T04:00:00.000Z",
+      "description": "Bachelor’s degree in Environmental Health or related field, Utah Environmental Health Scientist licensure or eligibility, 3 years of public or environmental health experience, and a valid driver’s license required.",
+      "salary": "$79k–$118k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Salt Lake County",
+      "title": "Water Quality Environmental Health Supervisor - Health Department",
+      "location": "Murray, Utah, United States",
       "url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
       "direct_url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
       "date_posted": "2026-08-21T04:00:00.000Z",
@@ -982,31 +1010,31 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Wsc",
-      "title": "Environmental Scientist I",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
-      "direct_url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Bachelor’s degree in environmental science, engineering, or related field or equivalent experience; 0–2 years relevant experience; fieldwork, data collection, reporting, communication, and organizational skills required.",
+      "company": "Aureon",
+      "title": "Facilities Inventory & Risk Assessment Specialist",
+      "location": "West Des Moines or Iowa",
+      "url": "https://recruiting2.ultipro.com/aur1004aurn/JobBoard/5581066a-62fb-4681-9f46-2482deb01adc/OpportunityDetail?opportunityId=3a20f7a8-0ad4-4731-8625-4671432f7a9c",
+      "direct_url": "https://recruiting2.ultipro.com/aur1004aurn/JobBoard/5581066a-62fb-4681-9f46-2482deb01adc/OpportunityDetail?opportunityId=3a20f7a8-0ad4-4731-8625-4671432f7a9c",
+      "date_posted": "2026-08-21T19:02:47.224Z",
+      "description": "Requires 3+ years of inventory, warehouse, or supply chain experience, high school diploma, valid driver's license with acceptable MVR, travel throughout Iowa, and strong organizational, analytical, documentation, and communication skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    }
-  ],
-  "new_jobs": [
+    },
     {
       "company": "Salt Lake County",
       "title": "Water Quality Environmental Health Supervisor - Health Department",
       "location": "Murray, Utah, United States",
-      "url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
-      "direct_url": "https://careersspanish-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
+      "url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
+      "direct_url": "https://careers-slco.icims.com/jobs/41346/water-quality-environmental-health-supervisor---health-department/job?in_iframe=1",
       "date_posted": "2026-08-21T04:00:00.000Z",
-      "description": "Bachelor’s degree in environmental health or related field, Utah environmental health scientist licensure or eligibility, 3 years of public or environmental health experience, and a valid driver’s license required.",
+      "description": "Bachelor’s degree in Environmental Health or related field, Utah Environmental Health Scientist licensure or eligibility, 3 years of public or environmental health experience, and a valid driver’s license required.",
       "salary": "$79k–$118k/yr",
       "job_type": "Full Time",
       "is_remote": false,
