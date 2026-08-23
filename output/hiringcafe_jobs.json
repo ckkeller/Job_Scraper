@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 00:01 UTC",
+  "scraped_at": "2026-08-23 02:15 UTC",
   "total": 68,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -116,20 +116,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Amgen",
-      "title": "Scientific Associate Director - Project Toxicologist",
-      "location": "United States or Thousand Oaks",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
-      "date_posted": "2026-08-20T00:00:00.000Z",
-      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
-      "salary": "$194k–$263k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "State of Maryland - MDH Ofc of Chief Med Examiner",
       "title": "ASSISTANT TOXICOLOGIST I POST-MORTEM",
       "location": "Baltimore, Maryland, United States",
@@ -141,6 +127,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Amgen",
+      "title": "Scientific Associate Director - Project Toxicologist",
+      "location": "United States or Thousand Oaks",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "direct_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Scientific-Associate-Director---Project-Toxicologist_R-251972",
+      "date_posted": "2026-08-20T00:00:00.000Z",
+      "description": "PhD, PharmD, or MD with 4 years of toxicology experience; master's with 7 years; or bachelor's with 9 years. Preferred: 8+ years drug development, regulatory experience, and toxicology expertise.",
+      "salary": "$194k–$263k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -286,6 +286,20 @@
     {
       "company": "AECOM",
       "title": "Environmental Scientist",
+      "location": "Arlington or Washington",
+      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
+      "date_posted": "2026-07-24T15:54:59.000Z",
+      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
+      "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AECOM",
+      "title": "Environmental Scientist",
       "location": "Arlington, Virginia, United States",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
       "direct_url": "https://jobs.smartrecruiters.com/AECOM2/744000139596359-environmental-scientist",
@@ -309,20 +323,6 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AECOM",
-      "title": "Environmental Scientist",
-      "location": "Arlington or Washington",
-      "url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "direct_url": "https://aecom.jobs/arlington-va/environmental-scientist/6172CE9DC0604375B612961C0C81FAD1/job/",
-      "date_posted": "2026-07-24T15:54:59.000Z",
-      "description": "Bachelor's in Environmental Science, 2+ years environmental consulting experience, valid U.S. driver’s license, background check, U.S. citizenship required; OSHA 40-Hour HAZWOPER preferred; ability to lift 50 lbs.",
-      "salary": "$60k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -452,20 +452,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "State of Rhode Island",
-      "title": "ENVIRONMENTAL SCIENTIST I",
-      "location": "Rhode Island, United States",
-      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
-      "date_posted": "2026-08-21T00:00:00.000Z",
-      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
-      "salary": "$73k–$82k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Calista Brice",
       "title": "Environmental Scientist II",
       "location": "Anchorage or Fairbanks or Salt Lake City or Grand Junction",
@@ -474,6 +460,20 @@
       "date_posted": "2026-08-17T00:00:00.000Z",
       "description": "Bachelor's degree in physical or environmental science, 5–10 years of environmental project experience, environmental regulations knowledge, driver's license, and ability to pass drug and background screening.",
       "salary": "$60k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "State of Rhode Island",
+      "title": "ENVIRONMENTAL SCIENTIST I",
+      "location": "Rhode Island, United States",
+      "url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "direct_url": "https://ri.wd5.myworkdayjobs.com/ri/job/Cannon-Building/ENVIRONMENTAL-SCIENTIST-I_JR103570",
+      "date_posted": "2026-08-21T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental, physical, or biological sciences, engineering, meteorology, environmental economics, or related field; environmental regulation, research, data analysis, communication, and fieldwork skills required.",
+      "salary": "$73k–$82k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -494,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "QK",
-      "title": "Associate Environmental Scientist",
-      "location": "Visalia, California, United States",
-      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
-      "date_posted": "2026-07-31T14:35:39.257Z",
-      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
-      "salary": "$67k–$83k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Langan Engineering & Environmental Services",
       "title": "Staff Environmental Scientist",
       "location": "Parsippany, New Jersey, United States",
@@ -516,6 +502,20 @@
       "date_posted": "2026-08-14T18:58:27.000Z",
       "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
       "salary": "$68k–$93k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "QK",
+      "title": "Associate Environmental Scientist",
+      "location": "Visalia, California, United States",
+      "url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "direct_url": "https://qk.breezy.hr/p/2bc92345e9fa-associate-environmental-scientist",
+      "date_posted": "2026-07-31T14:35:39.257Z",
+      "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
+      "salary": "$67k–$83k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -558,20 +558,6 @@
       "date_posted": "2026-07-27T05:00:00.000Z",
       "description": "Conduct asbestos and lead surveys, collect environmental samples, prepare technical reports; requires bachelor\\u0002s or equivalent, 1+ years environmental consulting experience, required accreditations for SC/NC, valid driver license.",
       "salary": "$60k–$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "TRC Companies, Inc.",
-      "title": "Environmental Scientist I",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "direct_url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
-      "date_posted": "2026-08-17T15:04:32.000Z",
-      "description": "Bachelor's degree in geology, environmental science, or related field; 1–5 years of environmental consulting experience; 40-hour HAZWOPER; valid driver's license; strong writing, analysis, QA/QC, and project management skills.",
-      "salary": "$52k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -858,6 +844,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Tetra Tech",
       "title": "Environmental Scientist",
       "location": "Germantown or Frederick County or Carroll County or Baltimore County or United States",
@@ -894,6 +894,20 @@
       "date_posted": "2026-08-18T17:01:17.704Z",
       "description": "Bachelor's degree in environmental science or related field, 5 years of technical or field experience preparing environmental documents, MS Office proficiency, strong writing and communication skills, and valid driver's license.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "TRC Companies, Inc.",
+      "title": "Environmental Scientist I",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
+      "direct_url": "https://careers.trccompanies.com/jobs/26597?lang=en-us",
+      "date_posted": "2026-08-17T15:04:32.000Z",
+      "description": "Bachelor's degree in geology, environmental science, or related field; 1–5 years of environmental consulting experience; 40-hour HAZWOPER; valid driver's license; strong writing, analysis, QA/QC, and project management skills.",
+      "salary": "$52k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -940,21 +954,22 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "Wsc",
-      "title": "Environmental Scientist I",
-      "location": "Des Moines, Iowa, United States",
-      "url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
-      "direct_url": "https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "Bachelor’s degree in environmental science, engineering, or related field or equivalent experience; 0–2 years relevant experience; fieldwork, data collection, reporting, communication, and organizational skills required.",
-      "salary": "",
+      "company": "Environmental Research Group",
+      "title": "Environmental Scientist",
+      "location": "Denver or United States",
+      "url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "direct_url": "https://envrg.isolvedhire.com/jobs/1838758",
+      "date_posted": "2026-08-07T00:00:00.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or related field; federal and state environmental regulatory experience; technical writing, auditing, project support, US citizenship, passport, and clearance eligibility required.",
+      "salary": "$80k–$90k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
