@@ -1,10 +1,16 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-23 20:01 UTC*
+*Last updated: 2026-08-23 21:08 UTC*
 
-**1 new role(s)** since last run · 65 total in last 30d
+**2 new role(s)** since last run · 65 total in last 30d
 
-### [Environmental Scientist I](https://wsc.wd1.myworkdayjobs.com/eoc/job/Des-Moines-Iowa/Environmental-Scientist-I_JR124470) — Wsc
-- 📍 **Location:** Des Moines, Iowa, United States
+### [Environmental Scientist/Ecologist](https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/) — HNTB
+- 📍 **Location:** Nashville, Tennessee, United States
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-13T00:00:00.000Z
+- 🕒 **Posted:** 2026-08-21T14:48:47.000Z
+
+### [Senior Environmental Scientist](https://jobs.silkroad.com/JMT/JMTCareers/jobs/15400?embedded=true) — Johnson, Mirmiran & Thompson, Inc.
+- 📍 **Location:** Jacksonville or South Carolina or Georgia or Alabama or Florida or North America
+- **Work mode:** On-site
+- **Job type:** Full Time
+- 🕒 **Posted:** 2026-08-12T19:19:39.203Z
