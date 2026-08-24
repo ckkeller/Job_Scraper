@@ -1,59 +1,6 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-08-24 16:18 UTC*
+*Last updated: 2026-08-24 17:18 UTC*
 
-**9 new role(s)** since last run · 9 total in last 24h
+**0 new role(s)** since last run · 9 total in last 24h
 
-### [Environmental Health Specialist IV](https://www.indeed.com/viewjob?jk=b2f85482d692178a) — County of Monterey, CA
-- 📍 **Location:** Salinas, CA, US
-- 💰 **Salary:** $8129–$11k/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=8373cbfc80572113) — AECOM
-- 📍 **Location:** Cairns, QLD, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=7338254c3f35ed0d) — AECOM
-- 📍 **Location:** New Townsville City, QLD, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=d0ee3d70d46d1671) — AECOM
-- 📍 **Location:** Brisbane, QLD, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=1bfaf188dc4dad1e) — AECOM
-- 📍 **Location:** SA, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=a8e761537dc2972b) — AECOM
-- 📍 **Location:** Perth, WA, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=50f9f400d07aefd3) — AECOM
-- 📍 **Location:** Sydney, NSW, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land - Relocate to Darwin](https://au.indeed.com/viewjob?jk=0fa3dd34966d4da4) — AECOM
-- 📍 **Location:** Melbourne, VIC, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
-
-### [Principal Environmental Scientist – Contaminated Land](https://au.indeed.com/viewjob?jk=44df17d85a2dd4d4) — AECOM
-- 📍 **Location:** Darwin, NT, AU
-- **Work mode:** Remote in-state eligible
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-08-24
+No new roles since the last run.
