@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 23:11 UTC",
-  "total": 66,
-  "new_count": 0,
+  "scraped_at": "2026-08-25 00:25 UTC",
+  "total": 67,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -256,20 +256,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "APTIM",
-      "title": "Environmental Scientist",
-      "location": "Irvine, California, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
-      "date_posted": "2026-08-21T16:46:28.016Z",
-      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
-      "salary": "$73k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mott MacDonald",
       "title": "Environmental Scientist",
       "location": "Los Angeles, California, United States",
@@ -284,17 +270,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "University of Massachusetts System",
+      "company": "APTIM",
       "title": "Environmental Scientist",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://umasssystem.pageuppeople.com/job/530168",
-      "direct_url": "https://umasssystem.pageuppeople.com/job/530168",
-      "date_posted": "2026-08-24T13:00:00.000Z",
-      "description": "Bachelor's degree in environmental science or related field or equivalent experience; environmental, aquatic, or marine science expertise; ArcGIS and R experience; fieldwork, data management, visualization, writing, and communication skills.",
-      "salary": "",
-      "job_type": "Full Time, Temporary",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "date_posted": "2026-08-21T16:46:28.016Z",
+      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
+      "salary": "$73k–$80k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -312,15 +298,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "United Water Conservation District",
+      "company": "University of Massachusetts System",
       "title": "Environmental Scientist",
-      "location": "Oxnard, California, United States",
-      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
-      "date_posted": "2026-08-07T19:57:38.000Z",
-      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
-      "salary": "$100k–$121k/yr",
-      "job_type": "Full Time",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://umasssystem.pageuppeople.com/job/530168",
+      "direct_url": "https://umasssystem.pageuppeople.com/job/530168",
+      "date_posted": "2026-08-24T13:00:00.000Z",
+      "description": "Bachelor's degree in environmental science or related field or equivalent experience; environmental, aquatic, or marine science expertise; ArcGIS and R experience; fieldwork, data management, visualization, writing, and communication skills.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
@@ -508,20 +494,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Langan Engineering & Environmental Services",
-      "title": "Staff Environmental Scientist",
-      "location": "Parsippany, New Jersey, United States",
-      "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
-      "direct_url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
-      "date_posted": "2026-08-14T18:58:27.000Z",
-      "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
-      "salary": "$68k–$93k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "QK",
       "title": "Associate Environmental Scientist",
       "location": "Visalia, California, United States",
@@ -530,6 +502,20 @@
       "date_posted": "2026-07-31T14:35:39.257Z",
       "description": "Bachelor's or Master’s in relevant biological/environmental field,2+ years' environmental experience (NEPA/CEQA preferred),species identification,field survey and technical writing skills.",
       "salary": "$67k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Langan Engineering & Environmental Services",
+      "title": "Staff Environmental Scientist",
+      "location": "Parsippany, New Jersey, United States",
+      "url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
+      "direct_url": "https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4369665009",
+      "date_posted": "2026-08-14T18:58:27.000Z",
+      "description": "Bachelor's degree in environmental engineering, environmental science, or geology; 1+ year of related experience; GPA of 3.0 minimum; driver's license and reliable transportation; overtime availability.",
+      "salary": "$68k–$93k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -558,6 +544,20 @@
       "date_posted": "2026-08-14T00:00:00.000Z",
       "description": "Bachelor's degree in geology or a related environmental or physical science field; scientific analysis, environmental law, GIS, communication, and field inspection skills required. Valid driver's license required.",
       "salary": "$56k–$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pond & Company",
+      "title": "Environmental Scientist Lead ",
+      "location": "Tampa or Peachtree Corners or Jacksonville or Atlanta",
+      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "Bachelor's degree in an environmental discipline and 6–10 years of related experience required. Requires environmental field leadership, GIS/GPS mapping, technical writing, project management, staff supervision, and travel.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -830,6 +830,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "United Water Conservation District",
+      "title": "Environmental Scientist",
+      "location": "Oxnard, California, United States",
+      "url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "direct_url": "https://www.governmentjobs.com/careers/unitedwaterca/jobs/5441316",
+      "date_posted": "2026-08-07T19:57:38.000Z",
+      "description": "Bachelor's degree in an environmental field, 4–6 years of environmental regulatory and permitting experience, project management expertise, CEQA and NEPA experience, and a valid California Class C driver's license.",
+      "salary": "$100k–$121k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "AECOM",
       "title": "Environmental Scientist",
       "location": "Long Beach or California or United States or North America",
@@ -928,5 +942,20 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Pond & Company",
+      "title": "Environmental Scientist Lead ",
+      "location": "Tampa or Peachtree Corners or Jacksonville or Atlanta",
+      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "Bachelor's degree in an environmental discipline and 6–10 years of related experience required. Requires environmental field leadership, GIS/GPS mapping, technical writing, project management, staff supervision, and travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    }
+  ]
 }
