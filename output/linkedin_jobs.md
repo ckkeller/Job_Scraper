@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-25 04:07 UTC*
+*Last updated: 2026-08-25 16:08 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Environmental Analyst](https://www.linkedin.com/jobs/view/4456922735/) — Verex Engineering LLC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-25
