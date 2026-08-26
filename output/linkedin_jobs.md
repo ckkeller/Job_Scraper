@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-08-26 04:28 UTC*
+*Last updated: 2026-08-26 16:44 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Water Resources Management Market Sector Lead](https://www.linkedin.com/jobs/view/4457969024/) — HDR
+- 📍 **Location:** Portland, OR
+- 🕒 **Posted:** 2026-08-26
