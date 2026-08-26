@@ -1,17 +1,18 @@
 # ☕ HiringCafe — Environmental / Toxicology Roles
-*Last updated: 2026-08-26 03:41 UTC*
+*Last updated: 2026-08-26 04:29 UTC*
 
-**2 new role(s)** since last run · 70 total in last 30d
+**2 new role(s)** since last run · 71 total in last 30d
 
-### [Environmental Scientist](https://arcadis.eightfold.ai/careers/job/563671532941543) — Arcadis
-- 📍 **Location:** Middletown or Florida or North America
-- 💰 **Salary:** $65k–$97k/yr
-- **Work mode:** Telecommute eligible
+### [Lead Security Risk Assessment Analyst](https://jobs.lincolnfinancial.com/job/Radnor-Lead-Security-Risk-Assessment-Analyst-PA/1423295300/) — Lincoln Financial
+- 📍 **Location:** Radnor or Charlotte or Fort Wayne or Greensboro or Syracuse
+- 💰 **Salary:** $120k–$193k/yr
+- **Work mode:** Remote in-state eligible
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-25T21:15:13.000Z
+- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
 
-### [Environmental Scientist/Ecologist](https://hntb.jobs/nashville-tn/environmental-scientistecologist/C75813D8E93A4500A10EEA4E2FF9530A/job/) — HNTB
-- 📍 **Location:** Nashville, Tennessee, United States
+### [Environmental Scientist](https://envrg.isolvedhire.com/jobs/1838763) — Environmental Research Group
+- 📍 **Location:** Boise or United States
+- 💰 **Salary:** $80k–$90k/yr
 - **Work mode:** On-site
 - **Job type:** Full Time
-- 🕒 **Posted:** 2026-08-21T14:48:47.000Z
+- 🕒 **Posted:** 2026-08-07T00:00:00.000Z
