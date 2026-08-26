@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-08-22 16:49 UTC",
-  "total": 12,
-  "new_count": 7,
+  "scraped_at": "2026-08-26 18:06 UTC",
+  "total": 11,
+  "new_count": 2,
   "jobs": [
-    {
-      "company": "United Water Conservation District",
-      "title": "Environmental Scientist",
-      "location": "1701 N. Lombard Street Suite 200 - Oxnard, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441316-0/environmental-scientist",
-      "date_posted": "",
-      "salary": "$99,863.00 - $121,392.00 Annually",
-      "ats": "NEOGOV"
-    },
     {
       "company": "County of San Benito",
       "title": "Environmental Health Specialist III",
@@ -31,21 +22,12 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Solano County",
-      "title": "Environmental Health Specialist (Senior)",
-      "location": "Fairfield, CA",
-      "url": "https://www.governmentjobs.com/jobs/5438080-0/environmental-health-specialist-senior",
+      "company": "County of Monterey",
+      "title": "Environmental Health Specialist IV",
+      "location": "Salinas, CA",
+      "url": "https://www.governmentjobs.com/jobs/5451489-0/environmental-health-specialist-iv",
       "date_posted": "",
-      "salary": "$101,314.79 - $123,148.76 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Kings County",
-      "title": "Environmental Health Specialist I/II",
-      "location": "Hanford, CA",
-      "url": "https://www.governmentjobs.com/jobs/5434932-0/environmental-health-specialist-i-ii",
-      "date_posted": "",
-      "salary": "",
+      "salary": "$8,129.33 - $11,097.49 Monthly",
       "ats": "NEOGOV"
     },
     {
@@ -109,71 +91,35 @@
       "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
       "date_posted": "",
       "salary": "$83,137.60 - $124,009.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "City of Watsonville",
-      "title": "Water Quality Chemist",
-      "location": "City of Watsonville, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454844-0/water-quality-chemist",
+      "company": "County of Monterey",
+      "title": "Environmental Health Specialist IV",
+      "location": "Salinas, CA",
+      "url": "https://www.governmentjobs.com/jobs/5451489-0/environmental-health-specialist-iv",
       "date_posted": "",
-      "salary": "$86,881.60 - $116,438.40 Annually",
+      "salary": "$8,129.33 - $11,097.49 Monthly",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Burbank",
-      "title": "WATER QUALITY ANALYST",
-      "location": "Burbank, CA",
-      "url": "https://www.governmentjobs.com/jobs/5454494-0/water-quality-analyst",
-      "date_posted": "",
-      "salary": "$102,750.44 - $141,642.54 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Corvallis",
-      "title": "Water Quality Analyst",
-      "location": "City of Corvallis, OR",
-      "url": "https://www.governmentjobs.com/jobs/5455854-0/water-quality-analyst",
-      "date_posted": "",
-      "salary": "$32.88 - $41.81 Hourly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Santa Margarita Water District",
-      "title": "Water Quality and Regulatory Manager",
-      "location": "92688, CA",
-      "url": "https://www.governmentjobs.com/jobs/5457810-0/water-quality-and-regulatory-manager",
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
       "date_posted": "",
       "salary": "",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "South Coast Air Quality Management District",
-      "title": "Principal Air Quality Chemist",
-      "location": "Diamond Bar, CA",
-      "url": "https://www.governmentjobs.com/jobs/5345731-0/principal-air-quality-chemist",
-      "date_posted": "",
-      "salary": "$117,094.95 - $166,105.90 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Santa Rosa",
-      "title": "Environmental Specialist I/II",
-      "location": "MSCS-69 Stony Circle Santa Rosa, CA",
-      "url": "https://www.governmentjobs.com/jobs/5401336-0/environmental-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$94,906.00 - $129,466.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "County of San Luis Obispo",
-      "title": "Environmental Specialist II/III (Limited Term)",
-      "location": "San Luis Obispo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5441591-0/environmental-specialist-ii-iii-limited-term",
-      "date_posted": "",
-      "salary": "$83,137.60 - $124,009.60 Annually",
       "ats": "NEOGOV"
     }
   ]
