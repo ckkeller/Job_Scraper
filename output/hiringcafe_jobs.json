@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-26 21:18 UTC",
+  "scraped_at": "2026-08-27 02:15 UTC",
   "total": 72,
-  "new_count": 4,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cordant Health Solutions",
@@ -18,17 +18,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Enhesa",
+      "company": "CAMRIS International LLC",
       "title": "Toxicologist",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
-      "date_posted": "2026-08-13T16:55:41.000Z",
-      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
-      "salary": "$90k–$115k/yr",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://camris.isolvedhire.com/jobs/1850102",
+      "direct_url": "https://camris.isolvedhire.com/jobs/1850102",
+      "date_posted": "2026-08-25T00:00:00.000Z",
+      "description": "The posting provides no specific qualifications or experience requirements; duties and role details are not supplied.",
+      "salary": "$110k–$145k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
-      "work_arrangement": "Remote in-state eligible",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -60,17 +60,17 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "CAMRIS International LLC",
+      "company": "Enhesa",
       "title": "Toxicologist",
-      "location": "Atlanta, Georgia, United States",
-      "url": "https://camris.isolvedhire.com/jobs/1850102",
-      "direct_url": "https://camris.isolvedhire.com/jobs/1850102",
-      "date_posted": "2026-08-25T00:00:00.000Z",
-      "description": "The posting provides no specific qualifications or experience requirements; duties and role details are not supplied.",
-      "salary": "$110k–$145k/yr",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "direct_url": "https://job-boards.greenhouse.io/enhesa/jobs/4368998009",
+      "date_posted": "2026-08-13T16:55:41.000Z",
+      "description": "Strong understanding of toxicological principles, GHS+ methodology, and hazard assessment practices, with analytical, scientific review, and excellent written and verbal communication skills.",
+      "salary": "$90k–$115k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
+      "is_remote": true,
+      "work_arrangement": "Remote in-state eligible",
       "ats": "HiringCafe"
     },
     {
@@ -286,15 +286,15 @@
     {
       "company": "APTIM",
       "title": "Environmental Scientist",
-      "location": "Winter Garden, Florida, United States",
-      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001218229506",
-      "date_posted": "2026-08-12T20:05:32.050Z",
-      "description": "Bachelor's degree in environmental science, science, engineering, or related field; 2–4 years of related experience; environmental compliance knowledge; strong communication, organization, and Microsoft application skills.",
-      "salary": "$68k–$73k/yr",
+      "location": "Irvine, California, United States",
+      "url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "direct_url": "https://myjobs.adp.com/aptim-professional-careers/cx/job-details?reqId=5001220107206",
+      "date_posted": "2026-08-21T16:46:28.016Z",
+      "description": "Bachelor's degree in environmental science, core science, engineering, or related field; 3–4 years of experience; RCRA and environmental compliance knowledge; strong communication, organization, and computer skills.",
+      "salary": "$73k–$80k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "work_arrangement": "On-site",
+      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     },
     {
@@ -410,20 +410,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Barton & Loguidice, D.P.C.",
-      "title": "Environmental Scientist",
-      "location": "Albany, New York, United States",
-      "url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
-      "direct_url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
-      "date_posted": "2026-08-18T16:58:51.409Z",
-      "description": "Bachelor’s degree in an environmental or related discipline, valid driver’s license, strong computer, writing, communication, and problem-solving skills, and ability to perform outdoor fieldwork and lift up to 50 pounds.",
-      "salary": "$54k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arcadis",
       "title": "Environmental Scientist",
       "location": "Middletown or Florida or North America",
@@ -435,6 +421,20 @@
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "Telecommute eligible",
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Barton & Loguidice, D.P.C.",
+      "title": "Environmental Scientist",
+      "location": "Albany, New York, United States",
+      "url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
+      "direct_url": "https://secure7.saashr.com/ta/6206147.careers?ShowJob=621251691",
+      "date_posted": "2026-08-18T16:58:51.409Z",
+      "description": "Bachelor’s degree in an environmental or related discipline, valid driver’s license, strong computer, writing, communication, and problem-solving skills, and ability to perform outdoor fieldwork and lift up to 50 pounds.",
+      "salary": "$54k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
       "ats": "HiringCafe"
     },
     {
@@ -606,6 +606,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Richmond, Virginia, United States",
+      "url": "https://careers-dewberry.icims.com/jobs/16222/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16222/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-08-26T04:00:00.000Z",
+      "description": "Bachelor's degree in a related environmental field, 5–10 years of experience, environmental permitting expertise, Virginia regulatory knowledge, and PWD/VSWD credential required or obtainable within one year.",
+      "salary": "$81k–$104k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "DDG",
       "title": "Environmental Scientist I",
       "location": "Lafayette, Louisiana, United States",
@@ -627,20 +641,6 @@
       "direct_url": "https://beringstraits.rec.pro.ukg.net/ber1502bsnc/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=0473d6ed-b7b7-472b-b1f3-874d92440027",
       "date_posted": "2026-08-26T16:51:31.152Z",
       "description": "Bachelor’s degree in engineering or science, 5–8 years of environmental investigation and remediation experience, 40-hour HAZWOPER training, ADEC qualified environmental professional status, CERCLA and contaminated-sites experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pond & Company",
-      "title": "Environmental Scientist Lead ",
-      "location": "Tampa or Peachtree Corners or Jacksonville or Atlanta",
-      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
-      "date_posted": "2026-08-24T04:00:00.000Z",
-      "description": "Bachelor's degree in an environmental discipline and 6–10 years of related experience required. Requires environmental field leadership, GIS/GPS mapping, technical writing, project management, staff supervision, and travel.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -942,6 +942,20 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Pond & Company",
+      "title": "Environmental Scientist Lead ",
+      "location": "Tampa or Peachtree Corners or Jacksonville or Atlanta",
+      "url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pondco/candidateportal/jobs/1877",
+      "date_posted": "2026-08-24T04:00:00.000Z",
+      "description": "Bachelor's degree in an environmental discipline and 6–10 years of related experience required. Requires environmental field leadership, GIS/GPS mapping, technical writing, project management, staff supervision, and travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "ats": "HiringCafe"
+    },
+    {
       "company": "HDR",
       "title": "Environmental Scientist II",
       "location": "Fort Worth, Texas, United States",
@@ -996,77 +1010,21 @@
       "is_remote": false,
       "work_arrangement": "On-site",
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Kentucky Energy & Environment Cabinet",
-      "title": "Environmental Scientist II",
-      "location": "Frankfort, Kentucky, United States",
-      "url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "direct_url": "https://kypersonnelcabinet.csod.com/ux/ats/careersite/49/home/requisition/80554?c=kypersonnelcabinet",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree in natural, biological, or physical science and one year of related experience. Requires environmental permitting, water assessment, GIS, regulatory, communication, and project management skills.",
-      "salary": "$47k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Dane Street, LLC",
-      "title": "Toxicologist",
-      "location": "San Antonio, Texas, United States",
-      "url": "https://jobs.workable.com/view/8oV9YNYj1TspHeNuyVbtmy/toxicologist-in-san-antonio-at-dane-street%2C-llc",
-      "direct_url": "https://jobs.workable.com/view/8oV9YNYj1TspHeNuyVbtmy/toxicologist-in-san-antonio-at-dane-street%2C-llc",
-      "date_posted": "2026-08-26T13:11:23.993Z",
-      "description": "Clinical toxicology expertise required to review medical records, assess medical necessity and charges, analyze CPT codes and fee schedules, complete counter-affidavits, and support depositions and trials.",
-      "salary": "",
-      "job_type": "Contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Onterris",
-      "title": "Environmental Scientist",
-      "location": "Nashville or Florida",
-      "url": "https://onterris.wd1.myworkdayjobs.com/ont/job/USA-TN-Nashville/Environmental-Scientist_R8707",
-      "direct_url": "https://onterris.wd1.myworkdayjobs.com/ont/job/USA-TN-Nashville/Environmental-Scientist_R8707",
-      "date_posted": "2026-08-26T00:00:00.000Z",
-      "description": "Bachelor’s degree in a related scientific field, 4+ years of environmental investigation experience, Tennessee asbestos and lead inspection credentials, 40-hour HAZWOPER, driver’s license, travel ability, and security clearance eligibility.",
-      "salary": "$75k–$90k/yr",
+      "company": "Dewberry",
+      "title": "Environmental Scientist III",
+      "location": "Richmond, Virginia, United States",
+      "url": "https://careers-dewberry.icims.com/jobs/16222/environmental-scientist-iii/job?in_iframe=1",
+      "direct_url": "https://careers-dewberry.icims.com/jobs/16222/environmental-scientist-iii/job?in_iframe=1",
+      "date_posted": "2026-08-26T04:00:00.000Z",
+      "description": "Bachelor's degree in a related environmental field, 5–10 years of experience, environmental permitting expertise, Virginia regulatory knowledge, and PWD/VSWD credential required or obtainable within one year.",
+      "salary": "$81k–$104k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Paragon Professional Services",
-      "title": "Environmental Scientist, III",
-      "location": "Anchorage or Alaska",
-      "url": "https://beringstraits.rec.pro.ukg.net/ber1502bsnc/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=0473d6ed-b7b7-472b-b1f3-874d92440027",
-      "direct_url": "https://beringstraits.rec.pro.ukg.net/ber1502bsnc/JobBoard/ac286e4d-e260-46ff-8aa0-b5e4a2fdfebf/OpportunityDetail?opportunityId=0473d6ed-b7b7-472b-b1f3-874d92440027",
-      "date_posted": "2026-08-26T16:51:31.152Z",
-      "description": "Bachelor’s degree in engineering or science, 5–8 years of environmental investigation and remediation experience, 40-hour HAZWOPER training, ADEC qualified environmental professional status, CERCLA and contaminated-sites experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BNY",
-      "title": "Vice President, Non-Financial Risk Assessment Program Transformation",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/requisitions/job/81037",
-      "direct_url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY-Careers/requisitions/job/81037",
-      "date_posted": "2026-08-26T14:42:18.000Z",
-      "description": "Requires 6–10 years in risk management, control frameworks, or compliance within financial services, plus risk methodology knowledge, cross-program integration, stakeholder management, communication, and complex risk data analysis skills.",
-      "salary": "$69k–$132k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
       "ats": "HiringCafe"
     }
   ]
