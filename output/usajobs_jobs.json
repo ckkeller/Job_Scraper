@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25 16:11 UTC",
-  "total": 11,
+  "scraped_at": "2026-08-28 00:34 UTC",
+  "total": 12,
   "new_count": 1,
   "jobs": [
     {
@@ -10,6 +10,15 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $76,463 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Protection Specialist",
+      "location": "Warren, Michigan",
+      "url": "https://www.usajobs.gov/job/882102500",
+      "date_posted": "2026-08-26",
+      "salary": "Starting at $117,402 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -105,12 +114,12 @@
   ],
   "new_jobs": [
     {
-      "company": "National Oceanic and Atmospheric Administration",
-      "title": "Environmental Scientist",
-      "location": "Silver Spring, Maryland",
-      "url": "https://www.usajobs.gov/job/881831800",
-      "date_posted": "2026-08-25",
-      "salary": "Starting at $74,678 Per year (ZP 3)",
+      "company": "United States Army Installation Management Command",
+      "title": "Supervisory Environmental Protection Specialist",
+      "location": "Warren, Michigan",
+      "url": "https://www.usajobs.gov/job/882102500",
+      "date_posted": "2026-08-26",
+      "salary": "Starting at $117,402 Per year (GS 13)",
       "ats": "USAJOBS"
     }
   ]
