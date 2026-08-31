@@ -1,6 +1,6 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-08-30 19:21 UTC*
+*Last updated: 2026-08-31 21:30 UTC*
 
-**0 new role(s)** since last run · 11 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 4 total in recent GovernmentJobs postings
 
 No new state/local-gov roles since the last run.
