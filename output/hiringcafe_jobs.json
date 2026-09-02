@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-02 19:31 UTC",
+  "scraped_at": "2026-09-02 22:01 UTC",
   "total": 10,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "State Water Resources Control Board",
@@ -144,20 +144,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Arcadis",
-      "title": "Environmental Scientist",
-      "location": "Tampa or United States",
-      "url": "https://arcadis.eightfold.ai/careers/job/563671532956439",
-      "direct_url": "https://arcadis.eightfold.ai/careers/job/563671532956439",
-      "date_posted": "2026-08-31T21:27:52.000Z",
-      "description": "Bachelor’s degree in environmental science or related discipline, 2+ years of environmental fieldwork and reporting, interdisciplinary project experience, and GPS field technology experience. HAZWOPER certification preferred.",
-      "salary": "$70k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "work_arrangement": "Telecommute eligible",
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
