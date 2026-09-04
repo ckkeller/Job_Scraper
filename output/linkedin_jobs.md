@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-04 04:38 UTC*
+*Last updated: 2026-09-04 18:33 UTC*
 
 **2 new role(s)** since last run · 2 total in last 1h
 
-### [Health Physicist- Licensing (Environmental Health Specialist 3)](https://www.linkedin.com/jobs/view/4458047693/) — Oregon Health Authority
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $5,714.00/mo - $8,764.00/mo
+### [Environmental Scientist](https://www.linkedin.com/jobs/view/4457355883/) — APTIM
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $35 to $38.46 per hour
 - 🕒 **Posted:** 2026-09-04
 
-### [Environmental Compliance Officer](https://www.linkedin.com/jobs/view/4456208227/) — Goulburn Mulwaree Council
-- 📍 **Location:** Goulburn, New South Wales, Australia
-- 💰 **Salary:** $102,726 - $115,612
+### [Environmental Specialist](https://www.linkedin.com/jobs/view/4461174948/) — Ellaway Blues Consulting
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-09-04
