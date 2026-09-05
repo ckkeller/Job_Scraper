@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-05 17:29 UTC*
+*Last updated: 2026-09-05 20:26 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Mid-Level Radiation Health Physicist - Environmental Remediation](https://www.linkedin.com/jobs/view/4454827191/) — Jacobs
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $85,000.00/yr - $127,000.00/yr
+### [Drinking Water Business Development Director](https://www.linkedin.com/jobs/view/4462655013/) — HDR
+- 📍 **Location:** Oregon, United States
+- 💰 **Salary:** $176,000 - $315,000
 - 🕒 **Posted:** 2026-09-05
