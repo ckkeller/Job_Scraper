@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-05 18:21 UTC",
-  "total": 12,
-  "new_count": 0,
+  "scraped_at": "2026-09-06 18:22 UTC",
+  "total": 13,
+  "new_count": 1,
   "jobs": [
     {
       "company": "County of Riverside",
@@ -13,21 +13,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of Mendocino",
-      "title": "Environmental Health Manager",
-      "location": "Ukiah, CA",
-      "url": "https://www.governmentjobs.com/jobs/5461125-0/environmental-health-manager",
-      "date_posted": "",
-      "salary": "$97,032.00 - $117,936.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "County of Fresno",
       "title": "ENVIRONMENTAL HEALTH AIDE",
       "location": "Fresno County, CA",
       "url": "https://www.governmentjobs.com/jobs/5463618-0/environmental-health-aide",
       "date_posted": "",
       "salary": "$46,306.00 - $59,098.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Mendocino",
+      "title": "Environmental Health Manager",
+      "location": "Ukiah, CA",
+      "url": "https://www.governmentjobs.com/jobs/5461125-0/environmental-health-manager",
+      "date_posted": "",
+      "salary": "$97,032.00 - $117,936.00 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -103,6 +103,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Folsom",
       "title": "Senior Environmental Specialist - Recycling",
       "location": "Folsom, CA",
@@ -112,5 +121,15 @@
       "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Brevard County Board of County Commissioners",
+      "title": "Associate Environmental Specialist (23394)",
+      "location": "Melbourne, FL",
+      "url": "https://www.governmentjobs.com/jobs/148696-1/associate-environmental-specialist-23394",
+      "date_posted": "",
+      "salary": "",
+      "ats": "NEOGOV"
+    }
+  ]
 }
