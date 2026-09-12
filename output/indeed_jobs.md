@@ -1,11 +1,11 @@
 # 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-12 21:00 UTC*
+*Last updated: 2026-09-12 23:27 UTC*
 
 **1 new role(s)** since last run · 11 total in last 24h
 
-### [ENVIRONMENTAL SCIENTIST](https://www.indeed.com/viewjob?jk=0cf8c3bfe681b992) — State of California
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $4418–$9321/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
+### [Wildfire Hazard Assessor](https://www.indeed.com/viewjob?jk=bd69cb083962f0d9) — Wildfire Services Group, Inc.
+- 📍 **Location:** Windsor, CA, US
+- 💰 **Salary:** $25–$35/hr
+- **Work mode:** Remote in-state eligible
+- **Job type:** parttime, fulltime
 - 🕒 **Posted:** 2026-09-12
