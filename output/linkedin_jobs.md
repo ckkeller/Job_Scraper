@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 05:01 UTC*
+*Last updated: 2026-09-16 19:03 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Air Quality Specialist](https://www.linkedin.com/jobs/view/4463575435/) — Teichert
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $107,500.00 - $150,500.00
+### [PhD project – Diamond Open Access in Earth and Environmental Sciences](https://www.linkedin.com/jobs/view/4468263170/) — European Geosciences Union (EGU)
+- 📍 **Location:** Townsville, Queensland, Australia
 - 🕒 **Posted:** 2026-09-16
