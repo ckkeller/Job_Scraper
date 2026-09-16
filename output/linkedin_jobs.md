@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 00:27 UTC*
+*Last updated: 2026-09-16 05:01 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Air Quality Specialist](https://www.linkedin.com/jobs/view/4463575435/) — Teichert
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $107,500.00 - $150,500.00
+- 🕒 **Posted:** 2026-09-16
