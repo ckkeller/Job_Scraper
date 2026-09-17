@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-16 22:19 UTC*
+*Last updated: 2026-09-17 00:38 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Senior Environmental Scientist (JC-531341)](https://www.linkedin.com/jobs/view/4467121175/) — Caltrans
-- 📍 **Location:** Humboldt County, CA
-- 💰 **Salary:** $93,840.00/yr - $128,784.00/yr
-- 🕒 **Posted:** 2026-09-16
-
-### [Air Quality Project Manager](https://www.linkedin.com/jobs/view/4466243288/) — Alliance Technical Group
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $80k - $130k annually
+### [CSST/Staff Environmental Scientist](https://www.linkedin.com/jobs/view/4468316272/) — SOCOTEC US
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-09-16
