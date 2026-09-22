@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-21 20:27 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-09-22 19:46 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
     {
       "company": "City of Palo Alto",
@@ -65,7 +65,44 @@
       "date_posted": "",
       "salary": "$77.19 - $98.51 Hourly",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
+      "date_posted": "",
+      "salary": "$103,105.44 - $125,321.76 Annually",
+      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "County of Sacramento",
+      "title": "Environmental Specialist III",
+      "location": "Sacramento, CA",
+      "url": "https://www.governmentjobs.com/jobs/4967720-0/environmental-specialist-iii",
+      "date_posted": "",
+      "salary": "$103,105.44 - $125,321.76 Annually",
+      "ats": "NEOGOV"
+    }
+  ]
 }
