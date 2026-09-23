@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-09-22 19:05 UTC*
+*Last updated: 2026-09-23 19:13 UTC*
 
-**0 new role(s)** since last run · 5 total in current USAJOBS postings
+**1 new role(s)** since last run · 5 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Environmental Protection Specialist](https://www.usajobs.gov/job/885826600) — Animal and Plant Health Inspection Service
+- 📍 **Location:** Fort Collins, Colorado
+- 💰 **Salary:** Starting at $89,508 Per year (GS 12)
+- 🕒 **Posted:** 2026-09-23
