@@ -1,12 +1,8 @@
 # 🏛 NEOGOV — State & Local Government Environmental / Toxicology Roles
-*Last updated: 2026-09-26 19:15 UTC*
+*Last updated: 2026-09-27 19:47 UTC*
 
-**2 new role(s)** since last run · 5 total in recent GovernmentJobs postings
+**1 new role(s)** since last run · 6 total in recent GovernmentJobs postings
 
-### [Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector) — City of Palo Alto
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $176,113.60 - $234,457.60 Annually
-
-### [Senior Hazardous Materials Inspector](https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector) — City of Sunnyvale
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $77.19 - $98.51 Hourly
+### [Air Quality Specialist I/II](https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii) — Placer County
+- 📍 **Location:** Auburn, CA
+- 💰 **Salary:** $6,782.53 - $8,469.07 Monthly
