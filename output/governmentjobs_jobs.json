@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-09-27 19:47 UTC",
+  "scraped_at": "2026-09-28 22:07 UTC",
   "total": 6,
   "new_count": 1,
   "jobs": [
-    {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
-      "date_posted": "",
-      "salary": "$10,684.27 - $13,351.87 Monthly",
-      "ats": "NEOGOV"
-    },
     {
       "company": "City of Palo Alto",
       "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
@@ -56,16 +47,25 @@
       "date_posted": "",
       "salary": "$71,820.00 - $96,288.00 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Placer County",
-      "title": "Air Quality Specialist I/II",
-      "location": "Auburn, CA",
-      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
       "date_posted": "",
-      "salary": "$6,782.53 - $8,469.07 Monthly",
+      "salary": "$110,718.40 - $134,617.60 Annually",
       "ats": "NEOGOV"
     }
   ]
