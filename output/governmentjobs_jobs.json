@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28 22:07 UTC",
-  "total": 6,
+  "scraped_at": "2026-09-29 20:52 UTC",
+  "total": 7,
   "new_count": 1,
   "jobs": [
     {
@@ -40,6 +40,15 @@
       "ats": "NEOGOV"
     },
     {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
       "company": "City of Oceanside",
       "title": "Watershed Protection Specialist I",
       "location": "Oceanside, CA",
@@ -49,23 +58,23 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "company": "City of Roseville (CA)",
+      "title": "Environmental Compliance Specialist I/II",
+      "location": "Roseville",
+      "url": "https://www.governmentjobs.com/jobs/5488659-0/environmental-compliance-specialist-i-ii",
       "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
+      "salary": "$31.77 - $49.17 Hourly",
       "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "company": "City of Roseville (CA)",
+      "title": "Environmental Compliance Specialist I/II",
+      "location": "Roseville",
+      "url": "https://www.governmentjobs.com/jobs/5488659-0/environmental-compliance-specialist-i-ii",
       "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
+      "salary": "$31.77 - $49.17 Hourly",
       "ats": "NEOGOV"
     }
   ]
