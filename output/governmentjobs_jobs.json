@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-29 20:52 UTC",
-  "total": 7,
-  "new_count": 1,
+  "scraped_at": "2026-09-30 20:51 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "City of Palo Alto",
@@ -13,15 +13,6 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "Placer County",
-      "title": "Air Quality Specialist I/II",
-      "location": "Auburn, CA",
-      "url": "https://www.governmentjobs.com/jobs/149374-1/air-quality-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$6,782.53 - $8,469.07 Monthly",
-      "ats": "NEOGOV"
-    },
-    {
       "company": "City of Palo Alto",
       "title": "Hazardous Materials Inspector",
       "location": "Palo Alto, CA",
@@ -29,53 +20,7 @@
       "date_posted": "",
       "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Sunnyvale",
-      "title": "Senior Hazardous Materials Inspector",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.governmentjobs.com/jobs/5468792-0/senior-hazardous-materials-inspector",
-      "date_posted": "",
-      "salary": "$77.19 - $98.51 Hourly",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
-      "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
-      "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Roseville (CA)",
-      "title": "Environmental Compliance Specialist I/II",
-      "location": "Roseville",
-      "url": "https://www.governmentjobs.com/jobs/5488659-0/environmental-compliance-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$31.77 - $49.17 Hourly",
-      "ats": "NEOGOV"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "City of Roseville (CA)",
-      "title": "Environmental Compliance Specialist I/II",
-      "location": "Roseville",
-      "url": "https://www.governmentjobs.com/jobs/5488659-0/environmental-compliance-specialist-i-ii",
-      "date_posted": "",
-      "salary": "$31.77 - $49.17 Hourly",
-      "ats": "NEOGOV"
-    }
-  ]
+  "new_jobs": []
 }
