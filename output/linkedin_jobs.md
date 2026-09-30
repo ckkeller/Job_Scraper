@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-09-30 20:09 UTC*
+*Last updated: 2026-09-30 23:55 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Principal - Water Resources](https://www.linkedin.com/jobs/view/4473981437/) — S&you Australia
+- 📍 **Location:** Melbourne, Victoria, Australia
+- 💰 **Salary:** $130K - $150K
+- 🕒 **Posted:** 2026-09-30
