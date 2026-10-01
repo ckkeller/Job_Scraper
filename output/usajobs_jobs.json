@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-30 20:16 UTC",
+  "scraped_at": "2026-10-01 20:31 UTC",
   "total": 6,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -58,15 +58,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Meade, South Dakota",
-      "url": "https://www.usajobs.gov/job/886894600",
-      "date_posted": "2026-09-30",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
