@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-01 20:31 UTC",
-  "total": 6,
-  "new_count": 0,
+  "scraped_at": "2026-10-02 20:07 UTC",
+  "total": 7,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -10,6 +10,24 @@
       "url": "https://www.usajobs.gov/job/881345300",
       "date_posted": "2026-08-19",
       "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Headquarters, NASA",
+      "title": "Environmental Protection Specialist (Direct Hire)",
+      "location": "Pasadena, California",
+      "url": "https://www.usajobs.gov/job/887126900",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $146,632 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Army Corps of Engineers",
+      "title": "Environmental Specialist",
+      "location": "Junction City, Oregon",
+      "url": "https://www.usajobs.gov/job/887287700",
+      "date_posted": "2026-10-01",
+      "salary": "Starting at $74,678 Per year (GS 11)",
       "ats": "USAJOBS"
     },
     {
@@ -31,15 +49,6 @@
       "ats": "USAJOBS"
     },
     {
-      "company": "United States Army Installation Management Command",
-      "title": "Environmental Protection Specialist",
-      "location": "Fort Devens, Massachusetts",
-      "url": "https://www.usajobs.gov/job/886088400",
-      "date_posted": "2026-09-25",
-      "salary": "Starting at $84,579 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
       "company": "National Oceanic and Atmospheric Administration",
       "title": "Fish Biologist - Fieldwork and Environmental Compliance Coordinator",
       "location": "Miami, Florida",
@@ -58,5 +67,24 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Headquarters, NASA",
+      "title": "Environmental Protection Specialist (Direct Hire)",
+      "location": "Pasadena, California",
+      "url": "https://www.usajobs.gov/job/887126900",
+      "date_posted": "2026-10-02",
+      "salary": "Starting at $146,632 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "U.S. Army Corps of Engineers",
+      "title": "Environmental Specialist",
+      "location": "Junction City, Oregon",
+      "url": "https://www.usajobs.gov/job/887287700",
+      "date_posted": "2026-10-01",
+      "salary": "Starting at $74,678 Per year (GS 11)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
