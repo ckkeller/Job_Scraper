@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02 20:48 UTC",
-  "total": 5,
+  "scraped_at": "2026-10-03 19:17 UTC",
+  "total": 7,
   "new_count": 2,
   "jobs": [
     {
@@ -47,25 +47,43 @@
       "date_posted": "",
       "salary": "$102,294.40 - $123,988.80 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "date_posted": "",
+      "salary": "$110,718.40 - $134,617.60 Annually",
+      "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
+      "date_posted": "",
+      "salary": "$71,820.00 - $96,288.00 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Program Supervisor (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5500148-0/environmental-health-program-supervisor-open-promotional",
+      "company": "Orange County Sanitation District",
+      "title": "Environmental Specialist (Quality Assurance/Sampling)",
+      "location": "CA 92708, CA",
+      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
       "date_posted": "",
-      "salary": "$11,989.47 - $14,984.67 Monthly",
+      "salary": "$110,718.40 - $134,617.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of San Diego",
-      "title": "Hazardous Materials Inspector III",
-      "location": "City of San Diego, CA",
-      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
+      "company": "City of Oceanside",
+      "title": "Watershed Protection Specialist I",
+      "location": "Oceanside, CA",
+      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
       "date_posted": "",
-      "salary": "$102,294.40 - $123,988.80 Annually",
+      "salary": "$71,820.00 - $96,288.00 Annually",
       "ats": "NEOGOV"
     }
   ]
