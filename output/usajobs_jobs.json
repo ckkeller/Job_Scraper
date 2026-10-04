@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-02 20:07 UTC",
+  "scraped_at": "2026-10-04 18:47 UTC",
   "total": 7,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Air Force Materiel Command",
@@ -67,24 +67,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Headquarters, NASA",
-      "title": "Environmental Protection Specialist (Direct Hire)",
-      "location": "Pasadena, California",
-      "url": "https://www.usajobs.gov/job/887126900",
-      "date_posted": "2026-10-02",
-      "salary": "Starting at $146,632 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "U.S. Army Corps of Engineers",
-      "title": "Environmental Specialist",
-      "location": "Junction City, Oregon",
-      "url": "https://www.usajobs.gov/job/887287700",
-      "date_posted": "2026-10-01",
-      "salary": "Starting at $74,678 Per year (GS 11)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
