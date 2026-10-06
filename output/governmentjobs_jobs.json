@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-05 22:43 UTC",
+  "scraped_at": "2026-10-06 21:03 UTC",
   "total": 6,
-  "new_count": 3,
+  "new_count": 2,
   "jobs": [
     {
       "company": "County of Sonoma (CA)",
@@ -22,21 +22,21 @@
       "ats": "NEOGOV"
     },
     {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
       "date_posted": "",
-      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "City of Palo Alto",
-      "title": "Senior Operator - Regional Water Quality Control Plant (Multiple Positions)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.governmentjobs.com/jobs/5481782-0/senior-operator-regional-water-quality-control-plant-multiple-positions",
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
       "date_posted": "",
-      "salary": "$126,256.00 - $154,440.00 Annually",
+      "salary": "$102,294.40 - $123,988.80 Annually",
       "ats": "NEOGOV"
     },
     {
@@ -60,30 +60,21 @@
   ],
   "new_jobs": [
     {
-      "company": "County of San Mateo",
-      "title": "Environmental Health Specialist IV - Solid Waste and Body Art Programs (Open & Promotional)",
-      "location": "County of San Mateo, CA",
-      "url": "https://www.governmentjobs.com/jobs/5458928-0/environmental-health-specialist-iv-solid-waste-and-body-art-programs-open-pr",
+      "company": "City of Palo Alto",
+      "title": "Hazardous Materials Inspector",
+      "location": "Palo Alto, CA",
+      "url": "https://www.governmentjobs.com/jobs/5489592-0/hazardous-materials-inspector",
       "date_posted": "",
-      "salary": "$10,684.27 - $13,351.87 Monthly",
+      "salary": "$176,113.60 - $234,457.60 Annually",
       "ats": "NEOGOV"
     },
     {
-      "company": "Orange County Sanitation District",
-      "title": "Environmental Specialist (Quality Assurance/Sampling)",
-      "location": "CA 92708, CA",
-      "url": "https://www.governmentjobs.com/jobs/5487457-0/environmental-specialist-quality-assurance-sampling",
+      "company": "City of San Diego",
+      "title": "Hazardous Materials Inspector III",
+      "location": "City of San Diego, CA",
+      "url": "https://www.governmentjobs.com/jobs/5488484-0/hazardous-materials-inspector-iii",
       "date_posted": "",
-      "salary": "$110,718.40 - $134,617.60 Annually",
-      "ats": "NEOGOV"
-    },
-    {
-      "company": "City of Oceanside",
-      "title": "Watershed Protection Specialist I",
-      "location": "Oceanside, CA",
-      "url": "https://www.governmentjobs.com/jobs/5485464-0/watershed-protection-specialist-i",
-      "date_posted": "",
-      "salary": "$71,820.00 - $96,288.00 Annually",
+      "salary": "$102,294.40 - $123,988.80 Annually",
       "ats": "NEOGOV"
     }
   ]
