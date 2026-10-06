@@ -1,6 +1,6 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-10-05 22:11 UTC*
+*Last updated: 2026-10-06 20:31 UTC*
 
-**0 new role(s)** since last run · 7 total in current USAJOBS postings
+**0 new role(s)** since last run · 6 total in current USAJOBS postings
 
 No new federal roles since the last run.
