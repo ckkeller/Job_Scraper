@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles
-*Last updated: 2026-10-06 20:31 UTC*
+*Last updated: 2026-10-07 20:46 UTC*
 
-**0 new role(s)** since last run · 6 total in current USAJOBS postings
+**1 new role(s)** since last run · 5 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Environmental Protection Specialist  - DIRECT HIRE](https://www.usajobs.gov/job/887819400) — Federal Transit Administration
+- 📍 **Location:** Cambridge, Massachusetts
+- 💰 **Salary:** Starting at $101,375 Per year (GS 12-13)
+- 🕒 **Posted:** 2026-10-07
